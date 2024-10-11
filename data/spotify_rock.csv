@@ -1,0 +1,99 @@
+Title,Artist,Genre,id,title_spotify,album,sp_popularity,colab,release_date,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,mode,tempo,duration
+Bohemian Rhapsody,Queen,Rock,6l8GvAyoUZwWDgF1e4822w,Bohemian Rhapsody,Stone Cold Classics,63.0,N,2006-01-01,0.397,0.386,-10.405,0.0503,0.271,0.0,0.188,0.21,0.0,0.0,144.242,355400.0
+Stairway to Heaven,Led Zeppelin,Rock,5CQ30WqJwcep0pYcV4AMNc,Stairway to Heaven - Remaster,Led Zeppelin IV (Deluxe Edition),77.0,N,1971-11-08,0.338,0.34,-12.049,0.0339,0.58,0.0032,0.116,0.197,9.0,0.0,82.433,482830.0
+Paint It Black,The Rolling Stones,Rock,63T7DJ1AFDD6Bn8VzG6JE8,"Paint It, Black",Aftermath,82.0,N,1966-04-15,0.464,0.795,-9.267,0.0926,0.0493,0.00244,0.399,0.612,1.0,1.0,158.691,202267.0
+Smells Like Teen Spirit,Nirvana,Rock,5ghIJDpPoe3CfHMGu71E6T,Smells Like Teen Spirit,Nevermind (Remastered),77.0,N,1991-09-26,0.502,0.912,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,1.0,1.0,116.761,301920.0
+Hotel California,Eagles,Rock,40riOy7x9W7GXjyGp4pjAv,Hotel California - 2013 Remaster,Hotel California (2013 Remaster),82.0,N,1976-12-08,0.579,0.508,-9.484,0.027,0.00574,0.000494,0.0575,0.609,2.0,1.0,147.125,391376.0
+Sweet Child O' Mine,Guns N' Roses,Rock,7snQQk1zcKl8gZ92AnueZW,Sweet Child O' Mine,Appetite For Destruction,84.0,N,1987-07-21,0.445,0.952,-5.321,0.0522,0.09,0.0843,0.112,0.624,6.0,1.0,125.304,356067.0
+Comfortably Numb,Pink Floyd,Rock,5HNCy40Ni5BZJFw1TKzRsC,Comfortably Numb,The Wall,71.0,N,1979-11-30,0.472,0.366,-12.595,0.0286,0.15,0.312,0.0837,0.171,11.0,0.0,127.163,382297.0
+Born to Run,Bruce Springsteen,Rock,6hTcuIQa0sxrrByu9wTD7s,Born to Run,Born To Run,71.0,N,1975-08-25,0.27,0.944,-4.199,0.0975,0.00501,2.05e-05,0.116,0.606,4.0,1.0,146.347,269920.0
+Another Brick in the Wall,Pink Floyd,Rock,4gMgiXfqyzZLMhsksGmbQV,"Another Brick in the Wall, Pt. 2",The Wall,74.0,N,1979-11-30,0.693,0.394,-15.882,0.0428,0.0782,0.000694,0.247,0.721,0.0,1.0,104.114,238747.0
+Back in Black,AC/DC,Rock,08mG3Y1vljYA6bvDt4Wqkj,Back In Black,Back In Black,84.0,N,1980-07-25,0.31,0.7,-5.678,0.047,0.011,0.00965,0.0828,0.763,9.0,1.0,188.386,255493.0
+Hey Jude,The Beatles,Rock,1eT2CjXwFXNx6oY5ydvzKU,Hey Jude,Love,67.0,N,2006-11-17,0.462,0.632,-7.438,0.0248,0.091,0.0,0.397,0.585,5.0,1.0,74.268,238854.0
+Livin' on a Prayer,Bon Jovi,Rock,37ZJ0p5Jm13JPevGcx4SkF,Livin' On A Prayer,Slippery When Wet,84.0,N,1986-08-16,0.532,0.887,-3.757,0.0335,0.0778,0.000206,0.294,0.794,0.0,1.0,122.509,249293.0
+Whole Lotta Love,Led Zeppelin,Rock,0hCB0YR03f6AmQaHbwWDe8,Whole Lotta Love - 1990 Remaster,Led Zeppelin II (1994 Remaster),73.0,N,1969-10-22,0.412,0.902,-11.6,0.405,0.0484,0.131,0.405,0.422,9.0,1.0,89.74,333893.0
+Purple Haze,Jimi Hendrix,Rock,0wJoRiX5K5BxlqZTolB2LD,Purple Haze,Are You Experienced,67.0,N,1967-05-12,0.533,0.905,-5.27,0.0754,0.00876,0.578,0.0698,0.486,2.0,1.0,108.9,170813.0
+Highway to Hell,AC/DC,Rock,2zYzyRzz6pRmhPzyfMEC8s,Highway to Hell,Highway to Hell,83.0,N,1979-07-27,0.574,0.913,-4.793,0.133,0.061,0.00158,0.156,0.423,6.0,0.0,115.728,208400.0
+We Will Rock You,Queen,Rock,3bCjss1Y0kPPaSgd9cb89K,We Will Rock You,Stone Cold Classics,53.0,N,2006-01-01,0.701,0.38,-10.717,0.0674,0.667,0.0,0.162,0.598,11.0,0.0,81.272,121960.0
+Jump,Van Halen,Rock,6Fba9RZtC6vTY814JToDtP,Jump,Best of Volume 1,60.0,N,1996-09-24,0.542,0.822,-7.201,0.0291,0.0745,0.00947,0.0645,0.772,0.0,1.0,130.011,239560.0
+Under the Bridge,Red Hot Chili Peppers,Rock,3d9DChrdc6BOeFsbrZ3Is0,Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),81.0,N,1991-09-24,0.559,0.345,-13.496,0.0459,0.0576,0.000105,0.141,0.458,4.0,1.0,84.581,264307.0
+Wish You Were Here,Pink Floyd,Rock,6mFkJmJqdDVQ1REhVfGgd1,Wish You Were Here,Wish You Were Here,74.0,N,1975-09-12,0.481,0.262,-15.73,0.0414,0.735,0.0114,0.832,0.375,7.0,1.0,122.861,334744.0
+November Rain,Guns N' Roses,Rock,3YRCqOhFifThpSRFJ1VWFM,November Rain,Use Your Illusion I,78.0,N,1991-09-17,0.294,0.64,-9.316,0.0291,0.016,0.22,0.112,0.226,11.0,1.0,79.79,536067.0
+Don't Stop Believin',Journey,Rock,77NNZQSqzLNqh2A9JhLRkg,Don't Stop Believin',The Essential Journey,73.0,N,2001-10-16,0.491,0.802,-7.106,0.0392,0.25,0.0,0.387,0.472,4.0,1.0,119.25,248907.0
+Kashmir,Led Zeppelin,Rock,6Vjk8MNXpQpi0F4BefdTyq,Kashmir - Remaster,Physical Graffiti (Deluxe Edition),67.0,N,1975-02-24,0.483,0.615,-8.538,0.0497,0.452,0.000414,0.0512,0.594,2.0,1.0,80.576,517125.0
+Satisfaction,The Rolling Stones,Rock,2PzU4IB8Dr6mxV3lHuaG34,(I Can't Get No) Satisfaction - Mono Version,Out Of Our Heads,77.0,N,1965-07-30,0.723,0.863,-7.89,0.0338,0.0383,0.0317,0.128,0.931,2.0,1.0,136.302,222813.0
+Come Together,The Beatles,Rock,2EqlS6tkEnglzr7tkKAAYD,Come Together - Remastered 2009,Abbey Road (Remastered),76.0,N,1969-09-26,0.53,0.376,-11.913,0.04,0.0304,0.247,0.0926,0.188,9.0,0.0,164.775,259947.0
+Free Bird,Lynyrd Skynyrd,Rock,5EWPGh7jbTNO2wakv8LjUI,Free Bird,Pronounced' Leh-'Nerd 'Skin-'Nerd,75.0,N,1973-01-01,0.249,0.834,-8.21,0.0574,0.0742,9.69e-05,0.0924,0.337,0.0,1.0,118.222,547107.0
+Thunderstruck,AC/DC,Rock,57bgtoPSgt236HzfBOd8kj,Thunderstruck,The Razors Edge,84.0,N,1990-09-24,0.502,0.89,-5.175,0.0364,0.000147,0.0117,0.217,0.259,4.0,1.0,133.52,292880.0
+Rock and Roll,Led Zeppelin,Rock,4PRGxHpCpF2yoOHYKQIEwD,Rock and Roll - Remaster,Led Zeppelin IV (Deluxe Edition),68.0,N,1971-11-08,0.317,0.887,-7.292,0.0375,0.000582,0.00258,0.0891,0.871,9.0,1.0,169.613,220561.0
+Paranoid,Black Sabbath,Rock,4MSqgoFS7e8LpsxeeMMVMu,Paranoid,The Ultimate Collection,52.0,N,2017-02-03,0.429,0.631,-11.514,0.0769,7.85e-05,0.00411,0.175,0.376,4.0,0.0,162.734,168440.0
+Enter Sandman,Metallica,Rock,3VqHuw0wFlIHcIPWkhIbdQ,Enter Sandman (Remastered),Metallica (Remastered),75.0,N,1991-08-12,0.566,0.834,-8.412,0.0298,0.00277,0.008,0.0625,0.621,6.0,0.0,123.296,331560.0
+Light My Fire,The Doors,Rock,5uvosCdMlFdTXhoazkTI5R,Light My Fire,The Doors,68.0,N,1967-01-04,0.413,0.725,-5.787,0.0324,0.369,2.16e-05,0.0905,0.44,3.0,0.0,124.618,429760.0
+Helter Skelter,The Beatles,Rock,0Bs0hUYxz7REyIHH7tRhL2,Helter Skelter - Remastered 2009,The Beatles (Remastered),57.0,N,1968-11-22,0.166,0.831,-8.469,0.0894,0.000606,0.846,0.811,0.281,9.0,1.0,167.518,269787.0
+Black,Pearl Jam,Rock,5Xak5fmy089t0FYmh3VJiY,Black,Ten,73.0,N,1991-08-27,0.36,0.684,-6.457,0.0308,0.323,0.0,0.34,0.2,4.0,0.0,77.15,342653.0
+Black Dog,Led Zeppelin,Rock,3qT4bUD1MaWpGrTwcvguhb,Black Dog - Remaster,Led Zeppelin IV (Deluxe Edition),70.0,N,1971-11-08,0.437,0.864,-7.842,0.0904,0.396,0.0314,0.242,0.749,4.0,0.0,81.394,295387.0
+Iron Man,Black Sabbath,Rock,4svkPL62HbvyFgf0nHFXAF,Iron Man,The Ultimate Collection,54.0,N,2017-02-03,0.332,0.769,-11.503,0.0765,0.00367,0.00413,0.0372,0.525,9.0,1.0,157.378,354774.0
+Whole Lotta Rosie,AC/DC,Rock,4wYq5wugZDzQiMZQYG4wVB,Whole Lotta Rosie,Let There Be Rock,64.0,N,1977-03-21,0.292,0.838,-4.459,0.078,0.0014,0.479,0.0953,0.423,9.0,1.0,159.176,333800.0
+Break on Through,The Doors,Rock,6ToM0uwxtPKo9CMpbPGYvM,Break on Through (To the Other Side),The Doors,71.0,N,1967-01-04,0.421,0.751,-9.584,0.0472,0.2,0.0,0.17,0.789,9.0,1.0,89.839,145867.0
+Baba O'Riley,The Who,Rock,3qiyyUfYe7CRYLucrPmulD,Baba O'Riley,Who's Next (Deluxe Edition),72.0,N,1971-08-14,0.489,0.724,-8.367,0.0352,0.313,0.185,0.287,0.15,5.0,1.0,117.292,300400.0
+Foxey Lady,Jimi Hendrix,Rock,23MrkN7g6Q5U7GLIxNHN1B,Foxey Lady,Are You Experienced,57.0,N,1967-05-12,0.507,0.847,-5.987,0.0411,0.0751,0.237,0.372,0.566,1.0,0.0,98.096,198773.0
+Heroes,David Bowie,Rock,7Jh1bpe76CNTCgdgAdBw4Z,Heroes - 2017 Remaster,"""Heroes"" (2017 Remaster)",73.0,N,1977,0.489,0.758,-6.491,0.0297,0.000678,0.49,0.092,0.435,7.0,1.0,112.113,371413.0
+While My Guitar Gently Weeps,The Beatles,Rock,0FzGKD3N0jK6nNOyOJBvNG,While My Guitar Gently Weeps,Love,47.0,N,2006-11-17,0.417,0.163,-14.445,0.0369,0.676,0.000211,0.112,0.216,5.0,1.0,122.61,226757.0
+I Love Rock 'n' Roll,Joan Jett & The Blackhearts,Rock,2Cdvbe2G4hZsnhNMKyGrie,I Love Rock 'N Roll,I Love Rock 'N' Roll (Expanded Edition),77.0,N,1981-11-18,0.535,0.716,-5.025,0.0431,0.326,0.0,0.659,0.901,4.0,1.0,94.379,175173.0
+American Girl,Tom Petty,Rock,53LwBS4bovyljsMlLqGfd6,American Girl,Tom Petty And The Heatbreakers,70.0,N,1976-11-09,0.552,0.823,-5.988,0.0332,0.445,0.000129,0.366,0.775,2.0,1.0,114.514,214733.0
+Roxanne,The Police,Rock,3EYOJ48Et32uATr9ZmLnAo,Roxanne,Outlandos D'Amour - Remastered 2003,79.0,N,1978-11-02,0.618,0.748,-8.905,0.358,0.0384,4.1e-06,0.0473,0.663,0.0,1.0,134.114,191947.0
+The Chain,Fleetwood Mac,Rock,5e9TFTbltYBg2xThimr0rU,The Chain - 2004 Remaster,Rumours (Super Deluxe),80.0,N,1977-02-04,0.545,0.67,-8.81,0.0496,0.009,0.000822,0.0451,0.481,9.0,1.0,151.553,270213.0
+Message in a Bottle,The Police,Rock,1oYYd2gnWZYrt89EBXdFiO,Message In A Bottle,Reggatta De Blanc - Remastered 2003,75.0,N,1979-10-02,0.577,0.808,-7.04,0.039,0.0338,1.33e-05,0.221,0.869,1.0,0.0,151.008,290280.0
+Money,Pink Floyd,Rock,0vFOzaXqZHahrZp6enQwQb,Money,The Dark Side of the Moon,69.0,N,1973-03-01,0.468,0.536,-10.422,0.144,0.024,0.00199,0.269,0.785,11.0,0.0,126.256,382834.0
+Ramble On,Led Zeppelin,Rock,3MODES4TNtygekLl146Dxd,Ramble On - 1990 Remaster,Led Zeppelin II (1994 Remaster),67.0,N,1969-10-22,0.468,0.607,-11.367,0.0336,0.072,0.000852,0.225,0.886,9.0,1.0,98.429,263333.0
+The Boys Are Back in Town,Thin Lizzy,Rock,43DeSV93pJPT4lCZaWZ6b1,The Boys Are Back In Town,Jailbreak (Deluxe Edition),70.0,N,1976,0.445,0.706,-9.803,0.0461,0.234,0.000252,0.205,0.768,8.0,1.0,80.823,266720.0
+Layla,Derek and the Dominos,Rock,2kkvB3RNRzwjFdGhaUA0tz,Layla,Layla And Other Assorted Love Songs (Remastered 2010),70.0,N,1970-11-01,0.404,0.902,-3.88,0.0665,0.577,0.297,0.287,0.497,1.0,1.0,115.669,423840.0
+More Than a Feeling,Boston,Rock,1QEEqeFIZktqIpPI4jSVSF,More Than a Feeling,Boston,78.0,N,1976,0.377,0.681,-8.039,0.0298,0.00088,0.0023,0.0504,0.285,7.0,1.0,108.789,285133.0
+Blitzkrieg Bop,Ramones,Rock,22ea9e9wspXjaR7qfqfsdS,Blitzkrieg Bop,Hey Ho Let's Go,52.0,N,2017-04-14,0.547,0.733,-6.558,0.0433,0.0103,0.131,0.117,0.962,9.0,1.0,176.198,133440.0
+Born to Be Wild,Steppenwolf,Rock,3lN8PP6R2IxbLP05QpYXng,Born To Be Wild - Single Version,Steppenwolf,65.0,N,1968-01-01,0.439,0.734,-12.168,0.097,0.262,0.333,0.244,0.54,2.0,1.0,145.703,212893.0
+Run to the Hills,Iron Maiden,Rock,5b1jZ9geGD4boxz24XgGPp,Run to the Hills (2015 Remaster),The Number of the Beast (2015 Remaster),57.0,N,1982-03-22,0.249,0.943,-5.188,0.0665,0.0286,0.00404,0.161,0.457,0.0,1.0,173.672,233507.0
+Roundabout,Yes,Rock,0l2kEdf5XjlckyybbNjmYS,Roundabout,Yesstory,42.0,N,1992-09-01,0.412,0.842,-6.826,0.0763,0.115,0.0133,0.0738,0.382,4.0,0.0,132.534,512387.0
+Radioactive,Imagine Dragons,Rock,4G8gkOterJn0Ywt6uhqbhp,Radioactive,Night Visions,72.0,N,2012-09-04,0.448,0.784,-3.686,0.0625,0.0999,0.000108,0.668,0.237,9.0,1.0,136.239,186813.0
+Barracuda,Heart,Rock,4KfSdst7rW39C0sfhArdrz,Barracuda,Little Queen,74.0,N,1977-05-14,0.548,0.691,-13.553,0.0369,0.015,0.106,0.144,0.667,4.0,0.0,137.145,261933.0
+Ace of Spades,Motörhead,Rock,3CIOopLwvyMvXk97ZEksKO,Ace of Spades,Ace of Spades (Expanded Edition),71.0,N,1980-11-08,0.322,0.991,-4.453,0.213,0.00313,0.0035,0.0708,0.198,6.0,1.0,140.221,168320.0
+Rebel Rebel,David Bowie,Rock,3bdEtobvgxJNoV8kiNGObK,Rebel Rebel,Reality,39.0,N,2003-09-15,0.861,0.483,-5.416,0.0732,0.296,2.02e-06,0.0715,0.861,9.0,1.0,125.94,190667.0
+Tom Sawyer,Rush,Rock,3QZ7uX97s82HFYSmQUAN1D,Tom Sawyer,Moving Pictures (2011 Remaster),68.0,N,1981-02-12,0.536,0.901,-7.211,0.0374,0.00145,0.0186,0.06,0.666,9.0,1.0,87.559,276880.0
+The Trooper,Iron Maiden,Rock,2C3B3dva983HPMojFqWLOp,The Trooper (2015 Remaster),Piece of Mind (2015 Remaster),61.0,N,1983-05-16,0.286,0.907,-4.601,0.0702,0.0326,0.00837,0.311,0.662,4.0,0.0,159.756,252733.0
+Zombie,The Cranberries,Rock,7EZC6E7UjZe63f1jRmkWxt,Zombie,No Need To Argue (The Complete Sessions 1994-1995),82.0,N,1994-10-03,0.309,0.649,-8.994,0.035,0.0158,0.00591,0.367,0.312,7.0,1.0,166.915,306440.0
+Losing My Religion,R.E.M.,Rock,31AOj9sFz2gM0O3hMARRBx,Losing My Religion,Out Of Time (25th Anniversary Edition),83.0,N,1991-03-12,0.666,0.855,-5.051,0.0295,0.179,1.2e-06,0.0987,0.803,9.0,0.0,125.639,268427.0
+Creep,Radiohead,Rock,70LcF31zb1H0PyJoS1Sx1r,Creep,Pablo Honey,86.0,N,1993-02-22,0.515,0.43,-9.935,0.0372,0.0097,0.000133,0.129,0.104,7.0,1.0,91.844,238640.0
+Welcome to the Jungle,Guns N' Roses,Rock,0G21yYKMZoHa30cYVi1iA8,Welcome To The Jungle,Appetite For Destruction,81.0,N,1987-07-21,0.454,0.987,-4.485,0.0881,0.0195,0.279,0.268,0.316,8.0,1.0,123.61,273480.0
+War Pigs,Black Sabbath,Rock,0HVQuuXGAcQ2P5mBN521ae,War Pigs,The Ultimate Collection,57.0,N,2017-02-03,0.464,0.612,-12.019,0.0591,0.116,0.00559,0.171,0.496,9.0,1.0,91.499,474400.0
+My Generation,The Who,Rock,2EMmHEhCZSMMEM85HTFJvj,My Generation,My Generation (50th Anniversary / Super Deluxe),46.0,N,1965-12-03,0.327,0.842,-6.068,0.105,0.144,0.000106,0.144,0.65,0.0,0.0,96.069,200173.0
+Fortunate Son,Creedence Clearwater Revival,Rock,4BP3uh0hFLFRb5cjsgLqDh,Fortunate Son,Willy And The Poor Boys (Expanded Edition),84.0,N,1969-11-02,0.64,0.663,-7.516,0.0374,0.201,0.00806,0.152,0.663,0.0,1.0,132.77,140773.0
+House of the Rising Sun,The Animals,Rock,7BY005dacJkbO6EPiOh2wb,House Of The Rising Sun,The Animals,70.0,N,1964-01-01,0.295,0.584,-6.696,0.0345,0.000385,0.218,0.0996,0.228,9.0,0.0,117.2,271280.0
+Sweet Emotion,Aerosmith,Rock,73TxYZd0lBCVRrHawrAglA,Sweet Emotion,Toys In The Attic,74.0,N,1975-04-08,0.379,0.76,-10.961,0.0378,0.00298,0.0296,0.104,0.491,9.0,1.0,99.436,274088.0
+All Along the Watchtower,The Jimi Hendrix Experience,Rock,2aoo2jlRnM3A0NyLQqMN2f,All Along the Watchtower,Electric Ladyland,73.0,N,1968-10-25,0.438,0.805,-6.237,0.0624,0.00255,5.69e-05,0.0842,0.564,8.0,1.0,113.253,240800.0
+Everlong,Foo Fighters,Rock,5UWwZ5lm5PKu6eKsHAGxOk,Everlong,The Colour And The Shape,82.0,N,1997-05-20,0.413,0.881,-5.541,0.0367,5.99e-05,0.000308,0.0805,0.364,11.0,0.0,158.066,250547.0
+La Grange,ZZ Top,Rock,1MVqP6dzp0EZ2T4TpAxWnS,La Grange - 2019 Remaster,Goin' 50,41.0,N,2019-06-14,0.554,0.643,-10.598,0.196,0.00452,0.0343,0.133,0.551,4.0,0.0,161.494,232507.0
+Immigrant Song,Led Zeppelin,Rock,78lgmZwycJ3nzsdgmPPGNx,Immigrant Song - Remaster,Led Zeppelin III (Remaster),76.0,N,1970,0.564,0.932,-10.068,0.0554,0.013,0.169,0.349,0.619,11.0,1.0,112.937,146250.0
+Even Flow,Pearl Jam,Rock,6QewNVIDKdSl8Y3ycuHIei,Even Flow,Ten,77.0,N,1991-08-27,0.394,0.944,-6.506,0.0761,0.00178,4.54e-06,0.298,0.265,10.0,0.0,105.338,292581.0
+Smoke on the Water,Deep Purple,Rock,5SAUIWdZ04OxYfJFDchC7S,Smoke on the Water,Machine Head,62.0,N,1972-03-25,0.632,0.586,-11.333,0.0284,0.0983,0.581,0.0535,0.89,0.0,1.0,114.243,342173.0
+Alive,Pearl Jam,Rock,1L94M3KIu7QluZe63g64rv,Alive,Ten,73.0,N,1991-08-27,0.284,0.875,-6.069,0.0422,0.00752,0.000461,0.402,0.595,11.0,0.0,75.009,340907.0
+Runnin' with the Devil,Van Halen,Rock,46FW5ZZ6fOF1WpMTEOVEHX,Runnin' with the Devil,Best of Volume 1,44.0,N,1996-09-24,0.458,0.931,-4.988,0.0634,0.148,8.4e-05,0.303,0.477,8.0,0.0,95.687,216133.0
+Time,Pink Floyd,Rock,3TO7bbrUKrOSPGRTB5MeCz,Time,The Dark Side of the Moon,68.0,N,1973-03-01,0.359,0.48,-11.79,0.0841,0.521,0.0043,0.178,0.355,9.0,1.0,120.285,413947.0
+I Want to Break Free,Queen,Rock,25H6P7a94WUr5102lC6TNI,I Want To Break Free,Bohemian Rhapsody (The Original Soundtrack),54.0,N,2018-10-19,0.807,0.414,-8.903,0.0352,0.105,2.78e-05,0.0813,0.502,4.0,1.0,108.944,223080.0
+Breakdown,Tom Petty,Rock,2BS1mU9kuKaPTKjXsmM42B,Breakdown,Greatest Hits,42.0,N,2008-05-20,0.647,0.265,-11.052,0.0467,0.32,4.89e-05,0.128,0.652,9.0,0.0,113.525,161467.0
+No One Knows,Queens of the Stone Age,Rock,6NvRxjfYkkT2SpirAlmsjH,No One Knows,Songs For The Deaf,66.0,N,2002,0.507,0.588,-4.881,0.0641,0.0359,0.000129,0.373,0.637,0.0,1.0,170.889,278707.0
+Sunshine of Your Love,Cream,Rock,6FRwDxXsvSasw0y2eDArsz,Sunshine Of Your Love,Disraeli Gears,60.0,N,1967-11-02,0.684,0.481,-12.59,0.0384,0.475,6.57e-05,0.118,0.784,2.0,1.0,115.078,250000.0
+T.N.T.,AC/DC,Rock,7LRMbd3LEoV5wZJvXT1Lwb,T.N.T.,High Voltage,78.0,N,1976-05-14,0.754,0.759,-5.218,0.302,0.153,0.000108,0.101,0.435,9.0,1.0,126.366,214667.0
+Learning to Fly,Pink Floyd,Rock,3ieDOGcOqVxScs2VZBzidt,Learning to Fly,A Momentary Lapse of Reason,60.0,N,1987-09-08,0.442,0.56,-13.681,0.0361,0.252,0.0322,0.151,0.475,0.0,1.0,166.585,292080.0
+Pride (In the Name of Love),U2,Rock,24rv66H94QGVqIXHjA3kn6,Pride (In The Name Of Love),The Best Of 1980 - 1990,51.0,N,1998-11-02,0.454,0.879,-5.44,0.0305,0.000861,0.00281,0.794,0.727,4.0,1.0,105.859,228467.0
+A Hard Day's Night,The Beatles,Rock,5J2CHimS7dWYMImCHkEFaJ,A Hard Day's Night - Remastered 2009,A Hard Day's Night (Remastered),65.0,N,1964-07-10,0.59,0.805,-6.481,0.0371,0.137,0.0,0.0996,0.797,0.0,1.0,138.514,154200.0
+One,U2,Rock,3G69vJMWsX6ZohTykad2AU,One,Achtung Baby (Deluxe Edition),73.0,N,1991-11-18,0.392,0.534,-8.793,0.0369,0.245,0.00104,0.155,0.325,0.0,1.0,181.305,276187.0
+Voodoo Child,Jimi Hendrix,Rock,2AxCeJ6PSsBYiTckM0HLY7,Voodoo Child (Slight Return),Electric Ladyland,64.0,N,1968-10-25,0.214,0.91,-6.662,0.389,0.477,0.00833,0.0517,0.448,8.0,1.0,175.549,313373.0
+Cocaine,Eric Clapton,Rock,3ykSdTGmYPFl8pDBXer1zG,Cocaine,Slowhand 35th Anniversary (Super Deluxe),63.0,N,1977-11-01,0.699,0.502,-12.526,0.0278,0.0607,0.0337,0.317,0.676,9.0,1.0,105.266,221640.0
+The Pretender,Foo Fighters,Rock,7x8dCjCr0x6x2lXKujYD34,The Pretender,"Echoes, Silence, Patience & Grace",77.0,N,2007-09-25,0.433,0.959,-4.04,0.0431,0.000917,0.0,0.028,0.365,9.0,1.0,172.984,269373.0
+One,Metallica,Rock,0LAcM6I7ijW4VVW0aytl1t,One (Remastered),...And Justice for All (Remastered Deluxe Box Set),69.0,N,1988-09-07,0.438,0.687,-9.15,0.0619,0.000668,0.0801,0.42,0.426,7.0,1.0,103.01,446146.0
+The Man Who Sold the World,David Bowie,Rock,4mWahKerLaVddUjb8d1Q4Q,The Man Who Sold the World - 2015 Remaster,The Man Who Sold the World - 2015 Remaster,63.0,N,1970-11-04,0.474,0.387,-14.416,0.0305,0.642,0.00557,0.143,0.545,2.0,0.0,118.486,241347.0
+In Bloom,Nirvana,Rock,30HCB1FoE77IfGRyNv4eFq,In Bloom,Nevermind (Remastered),68.0,N,1991-09-26,0.436,0.876,-4.902,0.0647,3.33e-05,0.000104,0.205,0.512,10.0,0.0,157.044,255080.0
+You Really Got Me,The Kinks,Rock,6tZdL3Zp8JgrfDbsSeSV1S,You Really Got Me,Kinks (Deluxe Edition),71.0,N,1964-02-02,0.567,0.959,-3.822,0.102,0.0995,6.07e-05,0.1,0.961,8.0,1.0,137.377,133933.0
+Gimme Shelter,The Rolling Stones,Rock,6H3kDe7CGoWYBabAeVWGiD,Gimme Shelter,Let It Bleed,75.0,N,1969-12-05,0.634,0.63,-8.277,0.031,0.447,0.039,0.17,0.489,1.0,0.0,118.628,270773.0
+California Dreamin',The Mamas & The Papas,Rock,1ZEOIhSn6BKErV59bIgn76,California Dreamin',All The Leaves Are Brown The Golden Era Collection,71.0,N,2001-08-28,0.548,0.728,-6.631,0.0367,0.424,0.0,0.0525,0.649,1.0,0.0,112.332,160373.0
+Bad to the Bone,George Thorogood,Rock,6s0NHplywwr1IjnQpUpWJk,Bad To The Bone,BAD TO THE BONE,67.0,N,1982-01-01,0.459,0.727,-11.777,0.0303,0.00614,0.0652,0.384,0.955,0.0,1.0,149.231,292173.0
+Born in the USA,Bruce Springsteen,Rock,0dOg1ySSI7NkpAe89Zo0b9,Born in the U.S.A.,Born In The U.S.A.,74.0,N,1984-06-04,0.398,0.952,-6.042,0.061,0.000373,7.75e-05,0.1,0.584,4.0,1.0,122.093,278680.0

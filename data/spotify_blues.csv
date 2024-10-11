@@ -1,0 +1,72 @@
+Title,Artist,Genre,id,title_spotify,album,sp_popularity,colab,release_date,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,mode,tempo,duration
+The Thrill Is Gone,B.B. King,Blues,4NQfrmGs9iQXVQI9IpRhjM,The Thrill Is Gone,Completely Well,62.0,N,1969-12-05,0.547,0.46,-8.759,0.0256,0.344,0.442,0.0983,0.543,11.0,0.0,90.768,324733.0
+Sweet Home Chicago,Robert Johnson,Blues,2wPHe2ecCdkT0ly0km12g4,Sweet Home Chicago,King Of The Delta Blues,36.0,N,1936,0.691,0.0958,-13.9,0.143,0.98,1.61e-05,0.0931,0.519,1.0,0.0,101.574,176627.0
+Stormy Monday,T-Bone Walker,Blues,1i7nQGgwloILcp6ZftH2Qa,Call It Stormy Monday,T-Bone Blues,45.0,N,2005-03-29,0.511,0.295,-13.77,0.0637,0.857,0.000769,0.113,0.516,0.0,1.0,64.448,187600.0
+Cross Road Blues,Robert Johnson,Blues,1TrGdXSgiBm8W68D2K1COG,Cross Road Blues,King Of The Delta Blues Singers,45.0,N,1937,0.675,0.311,-11.959,0.0525,0.93,0.000261,0.102,0.638,9.0,1.0,97.159,149560.0
+Hoochie Coochie Man,Muddy Waters,Blues,3KSchPNSklO5McIqRH3qYX,I'm Your Hoochie Coochie Man,King Of The Electric Blues,55.0,N,1977,0.542,0.588,-9.268,0.0665,0.67,0.158,0.241,0.881,2.0,1.0,113.948,238533.0
+Pride and Joy,Stevie Ray Vaughan,Blues,1a2iF9XymafjRk56q7oCxo,Pride and Joy,Texas Flood (Legacy Edition),65.0,N,1983,0.427,0.626,-11.821,0.0385,0.0274,0.00395,0.106,0.743,8.0,1.0,126.877,219587.0
+Born Under a Bad Sign,Albert King,Blues,3ocm1Cf1Dk1ODrdBdybh82,Born Under A Bad Sign - Mono Mix,Born Under A Bad Sign (Mono),56.0,N,1967-01-01,0.711,0.483,-11.211,0.0298,0.434,0.012,0.0284,0.884,11.0,1.0,91.652,169998.0
+I Can't Quit You Baby,Otis Rush,Blues,1TVtYIucWI5fqdQwwlZFR3,I Can't Quit You Baby,An Introduction To Otis Rush,31.0,N,1956,0.492,0.596,-4.038,0.0395,0.97,0.043,0.284,0.548,2.0,1.0,86.952,219560.0
+Boom Boom,John Lee Hooker,Blues,2Mr1bGI2E10K7Mt1UJZ6Mw,Boom Boom,Burnin',58.0,N,1962-01-01,0.441,0.455,-14.207,0.0485,0.62,0.00187,0.135,0.918,10.0,1.0,160.9,152351.0
+Little Red Rooster,Willie Dixon,Blues,3Gq3uFAdJltar4ddwboPby,Little Red Rooster,Poet Of the Blues (Mojo Workin'- Blues For The Next Generation),42.0,N,1947,0.584,0.278,-18.566,0.0312,0.55,0.21,0.255,0.75,4.0,1.0,81.712,215027.0
+Every Day I Have the Blues,B.B. King,Blues,6E8jqiKej8Tv37A4s95R8b,"Every Day I Have The Blues - Live At The Regal Theater, Chicago, 1964",Live At The Regal,27.0,N,1965,0.389,0.677,-9.421,0.156,0.581,1.63e-06,0.375,0.636,5.0,0.0,163.085,189133.0
+Back Water Blues,Bessie Smith,Blues,2ABW9AYFdHh1QTGYNVmurr,Back Water Blues,Sings Bessie Smith,18.0,N,1988-11-15,0.671,0.404,-9.699,0.0359,0.875,1.55e-05,0.108,0.598,5.0,0.0,98.391,285400.0
+Key to the Highway,Big Bill Broonzy,Blues,1k3e8F8f838asGfAH4tJMD,Key to the Highway,Feelin' Low Down,16.0,N,1952-04-14,0.58,0.261,-13.995,0.0816,0.765,0.000462,0.0861,0.569,7.0,1.0,101.968,183920.0
+Ain't No Sunshine,Bill Withers,Blues,1k1Bqnv2R0uJXQN4u6LKYt,Ain't No Sunshine,Just As I Am,82.0,N,1971-05-01,0.527,0.415,-11.451,0.122,0.457,1.72e-05,0.117,0.515,4.0,0.0,78.169,125093.0
+Sweet Little Angel,B.B. King,Blues,4xDugsnzDMX1z44ZTtxpO2,Sweet Little Angel,Singin' The Blues,31.0,N,1957-01-01,0.563,0.558,-3.932,0.0364,0.807,1.98e-05,0.154,0.558,6.0,1.0,68.845,180987.0
+Wang Dang Doodle,Koko Taylor,Blues,1cXc92MX9kFjMrrDsvdf9w,Wang Dang Doodle,Koko Taylor,48.0,N,1987-01-01,0.648,0.544,-8.963,0.179,0.343,2.93e-06,0.087,0.619,1.0,1.0,153.063,182827.0
+Rock Me Baby,B.B. King,Blues,1bursm5ZnNHQS55a23h7kR,Rock Me Baby,Deuces Wild,46.0,Y,1997-11-04,0.715,0.544,-8.768,0.0574,0.00197,0.0544,0.11,0.67,7.0,1.0,167.784,397200.0
+Dust My Broom,Elmore James,Blues,0fM0mFxHP1R4KPX1PB8tWU,Dust My Broom,Shake Your Money Maker: The Best Of The Fire Sessions,43.0,N,2001-04-03,0.507,0.66,-4.957,0.0306,0.0115,0.336,0.322,0.696,2.0,1.0,100.783,175040.0
+Got My Mojo Working,Muddy Waters,Blues,18n0zch7bRo453Iwq98xYf,Got My Mojo Working,The Chess Box,51.0,N,1989-11-07,0.517,0.795,-9.633,0.0594,0.585,0.00375,0.226,0.875,4.0,1.0,113.534,172060.0
+I'm a Man,Bo Diddley,Blues,760clbeDBWmBsBLbszWuNZ,I'm A Man,Bo Diddley,55.0,N,1958-01-01,0.513,0.546,-15.672,0.0391,0.333,0.0,0.17,0.834,0.0,1.0,85.527,164547.0
+I'm So Glad,Cream,Blues,5UCSVXqaP7yv38ZtS6Iu4X,I'm So Glad,Fresh Cream,38.0,N,1966-12-09,0.356,0.561,-11.797,0.0392,0.0313,6.2e-05,0.25,0.34,2.0,1.0,135.593,238000.0
+You Shook Me,Willie Dixon,Blues,1xns0tyPRpOrODwND6ELTF,You Shook Me,I Am The Blues,25.0,N,1970,0.338,0.251,-17.826,0.036,0.65,0.019,0.269,0.587,5.0,1.0,183.015,254723.0
+Spoonful,Howlin' Wolf,Blues,7j02rdE5RVtNcNMuLGY5SS,Spoonful,Howlin' Wolf,55.0,N,1962-01-11,0.821,0.376,-13.622,0.0487,0.669,1.39e-05,0.106,0.824,0.0,1.0,119.039,170000.0
+Baby Please Don't Go,John Lee Hooker,Blues,7uhXMSCHj0eaW5VRB2jP1w,"Baby, Please Don't Go",Burning Hell,20.0,N,1992-01-01,0.693,0.0438,-25.844,0.28,0.85,0.00152,0.254,0.461,8.0,1.0,119.685,289560.0
+Love in Vain,Robert Johnson,Blues,6xvY8RthrKhbkY3lxxH752,Love in Vain - Take 1,King Of The Delta Blues,33.0,N,1936,0.74,0.0413,-18.767,0.0829,0.96,1.03e-06,0.104,0.477,8.0,1.0,89.864,143200.0
+Ain't That Lovin' You,Jimmy Reed,Blues,6vOk0FeRB3BMh03nLXOTvK,Ain't That Lovin' You Baby,I'm Jimmy Reed,24.0,N,1958-01-01,0.603,0.67,-6.949,0.0683,0.805,9.11e-06,0.199,0.842,5.0,1.0,152.566,135006.0
+Key to the Highway,Eric Clapton,Blues,1a0CDu5jpwW2arT34HbwUP,Key to the Highway,Riding With The King,45.0,Y,2000-06-13,0.823,0.539,-11.412,0.0325,0.328,0.00206,0.217,0.69,7.0,1.0,81.026,219960.0
+T-Bone Shuffle,T-Bone Walker,Blues,6bl7UHHcx1OY9tbvvnSssc,T-Bone Shuffle,T-Bone Blues,31.0,N,2005-03-29,0.656,0.396,-13.577,0.0329,0.817,0.135,0.127,0.801,8.0,1.0,132.088,170000.0
+Nasty Boogie,Albert King,Blues,2SXScqW8fvm22mCNtQktME,Travelin' Man,I Wanna Get Funky,41.0,N,1973-01-01,0.66,0.611,-11.867,0.114,0.231,0.0181,0.0497,0.896,7.0,1.0,102.167,171200.0
+I Just Want to Make Love to You,Etta James,Blues,3QnHWkNMY2mpy494Bis0ly,I Just Want To Make Love To You - Single Version,At Last!,63.0,N,1960,0.642,0.523,-8.579,0.11,0.772,3.26e-06,0.527,0.654,3.0,1.0,101.635,185627.0
+Hound Dog,Big Mama Thornton,Blues,5Oc0vLGWdEWeCqIU8zyELt,Hound Dog,Ball n' Chain,55.0,N,1989-01-01,0.563,0.542,-10.862,0.0962,0.706,3.59e-05,0.355,0.785,9.0,1.0,133.285,181000.0
+Call It Stormy Monday,T-Bone Walker,Blues,7uMiAVsZy9Iash5gPsoTxe,Call It Stormy Monday But Tuesday Is Just As Bad,Classics In Jazz (Expanded Edition),43.0,N,1954-04-01,0.621,0.134,-15.836,0.0496,0.853,0.0568,0.0412,0.44,0.0,1.0,103.782,183027.0
+Love Me Tender,Elvis Presley,Blues,7iBBcw61QVJxI3NDzlpX2E,Love Me Tender,Elvis 30 #1 Hits,56.0,N,2002-09-24,0.454,0.0529,-16.253,0.039,0.879,0.0,0.106,0.315,9.0,1.0,112.101,162067.0
+Drifting Blues,Charles Brown,Blues,1SWY18DqCypHjivcbv1lN0,Drifting Blues,Alone At The Piano,4.0,N,2004-01-13,0.563,0.168,-15.852,0.0394,0.975,0.00261,0.135,0.385,0.0,0.0,92.734,179400.0
+Strange Fruit,Billie Holiday,Blues,1CTex49P0iWwzUGsMNjgaV,Strange Fruit,Billie Holiday,54.0,N,1957-01-01,0.313,0.0437,-22.627,0.0315,0.989,0.148,0.209,0.0625,6.0,1.0,100.827,192867.0
+See See Rider,Ma Rainey,Blues,0zUUGSlU5QbKwsS49EqGge,See See Rider Blues,Presenting Ma Rainey,15.0,N,1924-06-03,0.506,0.178,-14.233,0.0486,0.996,0.192,0.503,0.32,4.0,1.0,70.226,195493.0
+Blues with a Feeling,Little Walter,Blues,0jonK6wMWVKsG1UutRmfpX,Blues With A Feeling,The Essential Little Walter,32.0,N,1993-06-08,0.427,0.518,-10.283,0.0389,0.839,0.00194,0.271,0.647,2.0,1.0,78.425,187773.0
+I Want You to Love Me,Mississippi John Hurt,Blues,2azwzKd8xYex2PyJEyl8BX,Coffee Blues,Rediscovered,38.0,N,1998-01-01,0.628,0.135,-20.695,0.0435,0.946,1.02e-05,0.0915,0.773,9.0,1.0,103.664,226227.0
+Ain't Nobody's Business,Billie Holiday,Blues,6oxVp5wy6LqoWVQYNytLf1,Ain't Nobody's Business If I Do,The Lady Sings,23.0,N,1956-01-01,0.625,0.15,-12.146,0.0635,0.885,0.0,0.0481,0.282,7.0,1.0,101.08,201960.0
+It Hurts Me Too,Elmore James,Blues,7egQm3o9Qem3FhzUNi66rI,It Hurts Me Too,Street Talkin',37.0,N,1975-01-07,0.298,0.386,-12.2,0.0316,0.957,0.0612,0.0904,0.618,1.0,1.0,180.032,192661.0
+My Babe,Little Walter,Blues,4KMXlzvtC8xjLseDqDjpeU,My Babe,The Essential Little Walter,57.0,N,1993-06-08,0.676,0.334,-10.572,0.0508,0.862,0.0,0.32,0.867,5.0,1.0,158.0,162040.0
+Trouble in Mind,Big Bill Broonzy,Blues,2GOztq545KfhVtznk79MXP,"Hey, Hey Baby",Trouble in Mind,26.0,N,2000-02-22,0.684,0.234,-15.497,0.0601,0.769,0.399,0.0916,0.821,9.0,1.0,170.75,174907.0
+You Don't Love Me,Willie Cobbs,Blues,5VGPp0EyyQqUKbtEDxMmUe,You Don't Love Me,Fernwood Rhythm 'N' Blues From Memphis,25.0,N,2003-01-01,0.356,0.666,-5.835,0.036,0.477,0.0127,0.1,0.651,2.0,1.0,137.895,156627.0
+Shake Your Moneymaker,Elmore James,Blues,0qRz3AYteD6VX65GkBqcel,The Sky Is Crying,Shake Your Moneymaker: The Best of the Fire Sessions,34.0,N,2001-03-19,0.294,0.611,-6.268,0.0348,0.0226,0.435,0.114,0.567,2.0,1.0,178.191,166400.0
+Rockin' Chair,Thelonious Monk,Blues,5ZF7cZhQqzZ9O3YNJLj1lL,Well You Needn't - Opening,The Complete Riverside Recordings,47.0,N,1986-01-01,0.498,0.192,-19.543,0.0437,0.555,1.15e-06,0.0692,0.397,5.0,0.0,87.683,86333.0
+Tennessee Waltz,Patti Page,Blues,0BHroBUvBAp561BYqC9LRK,Tennessee Waltz,Golden Hits,42.0,N,1960-09-07,0.373,0.124,-12.95,0.0342,0.969,0.000891,0.123,0.351,5.0,1.0,86.857,185000.0
+Just Your Fool,Little Walter,Blues,4Dxe3Y8MPu7ffNrBFPNzRL,Just Your Fool,The Essential Little Walter,30.0,N,1993-06-08,0.512,0.77,-6.36,0.0442,0.422,0.000252,0.251,0.949,2.0,1.0,108.771,144493.0
+Black Magic Woman,Santana,Blues,4nmne9J3YCEdhvjTzwiAgu,Black Magic Woman,Ultimate Santana,59.0,N,2007-09-25,0.497,0.552,-7.102,0.0307,0.679,0.0314,0.089,0.633,9.0,0.0,124.359,195867.0
+The Sky Is Crying,Stevie Ray Vaughan,Blues,0rXcAvuQdrQakSPhIOZ6f8,The Sky Is Crying - 1984 Version,Couldn't Stand The Weather (Legacy Edition),45.0,N,1984,0.248,0.431,-11.074,0.0437,0.0051,0.137,0.294,0.581,6.0,0.0,182.001,250867.0
+Crawling King Snake,John Lee Hooker,Blues,6xJAM3OvKNKH0xprjDFrzB,Crawling King Snake,John Lee Hooker,3.0,N,1965-07-01,0.544,0.238,-14.774,0.0969,0.987,0.0274,0.358,0.429,2.0,1.0,91.74,161045.0
+Mannish Boy,Muddy Waters,Blues,58PSYdY0GFg0LFb2PxYk4T,Mannish Boy,King Of The Electric Blues,60.0,N,1977,0.598,0.735,-10.882,0.0973,0.44,0.000215,0.681,0.615,2.0,1.0,111.129,321133.0
+Walking By Myself,Jimmy Rogers,Blues,36ccrof5DFicLrejE4hEye,Walking By Myself,Chicago Bound,46.0,N,1976-02-03,0.621,0.519,-13.328,0.102,0.837,0.00246,0.162,0.775,11.0,0.0,117.005,167267.0
+My Midnight,The Black Keys,Blues,0BvTRzRqYx0pGW5Xpumryv,Dancing at Midnight,The Night of My Life,0.0,N,2022-11-17,0.387,0.185,-18.07,0.0326,0.78,0.189,0.117,0.437,1.0,1.0,104.127,145170.0
+Blind Lemon Jefferson,Matchbox Twenty,Blues,2KVwlelhxKUy8LVV6JypH3,Push,Yourself or Someone Like You,74.0,N,1996-10-01,0.42,0.672,-7.902,0.027,0.0067,0.0,0.108,0.476,6.0,1.0,168.019,238667.0
+Cold Shot,Stevie Ray Vaughan,Blues,3QwDN08fGnGfRrsn5wLTej,Cold Shot,Couldn't Stand The Weather (Legacy Edition),49.0,N,1984,0.427,0.553,-11.434,0.0405,0.344,0.000956,0.227,0.674,6.0,0.0,109.629,240987.0
+Too Late,Koko Taylor,Blues,4ltZJeX3Asu77e2XEKfWxO,Too Late,Too Late,29.0,N,2023-04-25,0.897,0.498,-9.79,0.227,0.0185,0.00301,0.107,0.396,1.0,1.0,104.009,142662.0
+You Were Mine,The Who,Blues,6WoolNlD3HrcuGqbcEzKro,You Who Were Mine,"Love on the Beach, Latin Jazz for Lovers",0.0,N,2024-02-06,0.732,0.31,-15.713,0.0404,0.727,0.885,0.0833,0.854,0.0,1.0,129.94,171618.0
+Broke and Lonely,Shemekia Copeland,Blues,5XtVpa3LiJHfnTxRzbfU74,Salt In My Wounds,Turn The Heat Up!,43.0,N,1998-04-01,0.72,0.351,-9.332,0.0312,0.504,0.0121,0.279,0.147,11.0,0.0,107.263,253067.0
+All Your Love (I Miss Loving),Otis Rush,Blues,46UVOp5pnAasev0rak9ta7,All Your Love (I Miss Loving),An Introduction To Otis Rush,20.0,N,1956,0.469,0.767,-5.952,0.0539,0.818,0.00261,0.23,0.646,1.0,0.0,127.842,157133.0
+Mississippi Blues,William Bell,Blues,6w4uBNwx4UZoz5qGB4SPXL,Mississippi Girl,Southern Soul,24.0,N,2010-03-12,0.514,0.765,-3.902,0.274,0.463,5.42e-06,0.159,0.619,0.0,1.0,81.438,309480.0
+Please Love Me,B.B. King,Blues,4gmisBKFNRoYTnZfYlb5AN,"Please Love Me - Live At The Regal Theater, Chicago, 1964",Live At The Regal,25.0,N,1965,0.358,0.886,-8.325,0.0734,0.547,0.0,0.783,0.744,5.0,0.0,167.415,179267.0
+Rollin' Stone,Muddy Waters,Blues,61K6lqGyrl2Aerk0LjAZem,Rollin' Stone,The Chess Box,49.0,N,1989-11-07,0.629,0.0192,-19.952,0.0833,0.989,4.3e-05,0.106,0.335,4.0,1.0,169.254,188160.0
+Wishing Well,Free,Blues,6TSBIfIbxuPDi1uqMqy1iV,Wishing Well,Heartbreaker,46.0,N,1973-01-01,0.498,0.72,-10.533,0.0674,0.14,0.000252,0.38,0.576,4.0,0.0,121.892,220147.0
+I Got a Woman,Ray Charles,Blues,2xar08Fq5xra2KKZs5Bw9j,I've Got a Woman,"Ray Charles (aka: Hallelujah, I Love Her So)",70.0,N,1957-01-01,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,9.0,1.0,199.373,171467.0
+What I'd Say,Ray Charles,Blues,5yQ9iMZXGcr5rlO4hoLsP4,"What'd I Say, Pt. 1 & 2",What'd I Say,57.0,N,1959,0.54,0.681,-5.44,0.0508,0.808,0.0,0.162,0.794,4.0,1.0,88.385,307053.0
+Big Legged Woman,Big Joe Williams,Blues,37RtOpFMu0i0wzjtK7c1bn,Big Legged Woman,Texas Cannonball,37.0,N,1972-01-01,0.571,0.562,-11.872,0.0351,0.652,0.0,0.525,0.947,10.0,1.0,184.677,240533.0
+Hate to See You Go,Nina Simone,Blues,39CyGKIFqMzSuynOR8uilD,Baltimore,Baltimore,59.0,N,1978,0.638,0.28,-16.516,0.0673,0.417,0.439,0.0611,0.734,9.0,1.0,154.955,278867.0
+Coyote,Joni Mitchell,Blues,5fdjxHzBILxMXRrbbOVupJ,Coyote,Hejira,44.0,N,1976-11-01,0.525,0.555,-8.739,0.0441,0.848,0.000173,0.0795,0.574,0.0,1.0,167.036,301440.0
+Rough and Rowdy Ways,Bob Dylan,Blues,5AJT2Tk8mnDEnCtsikWVu2,I Contain Multitudes,Rough and Rowdy Ways,38.0,N,2020-06-19,0.513,0.0816,-19.555,0.0782,0.934,0.000132,0.108,0.129,0.0,1.0,132.491,276733.0
+Got You on My Mind,Otis Redding,Blues,4skknrc3sJqaPTtUr2cwFq,These Arms of Mine,Pain in My Heart,69.0,N,1964,0.403,0.284,-14.014,0.0338,0.798,0.0,0.142,0.686,10.0,1.0,176.537,154533.0
+Love Is a Stranger,The Paul Butterfield Blues Band,Blues,66Yxbr2UODJjVBKdZtbnOL,Love Is Strange,Dirty Dancing (Original Motion Picture Soundtrack),50.0,N,1987-09-24,0.57,0.3,-16.159,0.0341,0.684,7.84e-05,0.0469,0.811,0.0,1.0,121.693,173333.0

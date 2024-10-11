@@ -1,0 +1,84 @@
+Title,Artist,Genre,id,title_spotify,album,sp_popularity,colab,release_date,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,mode,tempo,duration
+Billie Jean,Michael Jackson,Pop,5ChkMS8OtdzJeqyybCc9R5,Billie Jean,Thriller 25 Super Deluxe Edition,77.0,N,2008-02-08,0.92,0.654,-3.051,0.0401,0.0236,0.0153,0.036,0.847,11.0,0.0,117.046,293827.0
+Like a Prayer,Madonna,Pop,1z3ugFmUKoCzGsI6jdY4Ci,Like a Prayer,Celebration (double disc version),76.0,N,2009-09-18,0.625,0.842,-5.285,0.0376,0.264,2.12e-05,0.181,0.26,5.0,1.0,111.038,342680.0
+...Baby One More Time,Britney Spears,Pop,3MjUtNVVq3C8Fn0MP3zhXa,...Baby One More Time,...Baby One More Time (Digital Deluxe Version),82.0,N,1999-01-12,0.759,0.699,-5.745,0.0307,0.202,0.000131,0.443,0.907,0.0,0.0,92.96,211067.0
+Single Ladies (Put a Ring on It),Beyoncé,Pop,5R9a4t5t5O0IsznsrKPVro,Single Ladies (Put a Ring on It),I AM...SASHA FIERCE,65.0,N,2008-11-17,0.426,0.584,-5.293,0.296,0.0383,0.0,0.188,0.272,1.0,1.0,193.437,193213.0
+Bad Romance,Lady Gaga,Pop,0SiywuOBRcynK0uKGWdCnn,Bad Romance,The Fame Monster (Deluxe Edition),82.0,N,2009-11-05,0.695,0.921,-3.752,0.0363,0.00314,5.26e-05,0.0842,0.714,0.0,1.0,119.007,294573.0
+Shape of You,Ed Sheeran,Pop,7qiZfU4dY1lWllzX7mPBI3,Shape of You,÷ (Deluxe),85.0,N,2017-03-03,0.825,0.652,-3.183,0.0802,0.581,0.0,0.0931,0.931,1.0,0.0,95.977,233713.0
+Rolling in the Deep,Adele,Pop,1c8gk2PeTE04A1pIDH9YMk,Rolling in the Deep,21,78.0,N,2011-01-24,0.73,0.769,-5.114,0.0298,0.138,0.0,0.0473,0.507,8.0,1.0,104.948,228093.0
+Uptown Funk,Mark Ronson ft. Bruno Mars,Pop,1YILIKjno1jrlDhPDmAZtO,Uptown Funk (made popular by Mark Ronson ft. Bruno Mars) [vocal version],Pop Party Pack 6 - Party Tyme (Vocal Versions),4.0,N,2024-02-16,0.867,0.529,-8.916,0.0827,0.0261,0.000229,0.0689,0.909,0.0,1.0,115.042,273270.0
+Blinding Lights,The Weeknd,Pop,0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,After Hours,88.0,N,2020-03-20,0.513,0.73,-5.94,0.0598,0.00143,9.54e-05,0.0897,0.334,1.0,1.0,171.001,200040.0
+Roar,Katy Perry,Pop,6F5c58TMEs1byxUstkzVeM,Roar,PRISM (Deluxe),70.0,N,2013-10-18,0.671,0.771,-4.821,0.0316,0.00492,7.28e-06,0.354,0.436,7.0,0.0,90.003,223546.0
+Toxic,Britney Spears,Pop,6I9VzXrHxO9rA9A5euc8Ak,Toxic,In The Zone,84.0,N,2003-11-13,0.774,0.838,-3.914,0.114,0.0249,0.025,0.242,0.924,5.0,0.0,143.04,198800.0
+Sorry,Justin Bieber,Pop,09CtPGIpYB4BrO8qb1RGsF,Sorry,Purpose (Deluxe),83.0,N,2015-11-13,0.655,0.76,-3.669,0.045,0.0797,0.0,0.299,0.409,0.0,0.0,99.947,200787.0
+Call Me Maybe,Carly Rae Jepsen,Pop,3TGRqZ0a2l1LRblBkJoaDx,Call Me Maybe,Kiss (Deluxe),72.0,N,2012-01-01,0.782,0.58,-6.548,0.0407,0.0114,2.28e-06,0.108,0.66,7.0,1.0,120.021,193400.0
+Havana,Camila Cabello ft. Young Thug,Pop,3siJqmSkeHD5QCo4babUsb,Havana (made popular by Camila Cabello ft. Young Thug) [vocal version],Pop Female Hits 3 - Party Tyme (Vocal Versions),3.0,N,2024-05-31,0.749,0.446,-8.418,0.0318,0.211,0.00178,0.182,0.571,7.0,0.0,104.966,214966.0
+Firework,Katy Perry,Pop,4lCv7b86sLynZbXhfScfm2,Firework,Teenage Dream: The Complete Confection,70.0,N,2012-03-12,0.639,0.826,-4.968,0.0479,0.139,0.0,0.0803,0.648,8.0,1.0,124.075,227880.0
+Shallow,Lady Gaga & Bradley Cooper,Pop,2VxeLyX666F8uXCJ0dZF8B,Shallow,A Star Is Born Soundtrack,83.0,Y,2018-10-05,0.577,0.385,-6.362,0.03,0.371,0.0,0.231,0.331,7.0,1.0,95.82,215733.0
+"Thank U, Next",Ariana Grande,Pop,3e9HZxeyfWwjeyPAMmWSSQ,"thank u, next","thank u, next",78.0,N,2019-02-08,0.72,0.654,-5.634,0.0647,0.227,0.0,0.101,0.411,1.0,1.0,106.976,207320.0
+Senorita,Shawn Mendes & Camila Cabello,Pop,6v3KW9xbzN5yKLt9YKDYA2,Señorita,Shawn Mendes (Deluxe),79.0,Y,2019-06-19,0.759,0.548,-6.049,0.0289,0.0379,0.0,0.0828,0.75,9.0,0.0,116.963,190800.0
+Levitating,Dua Lipa,Pop,39LLxExYz6ewLAcYrzQQyP,Levitating,Future Nostalgia,75.0,N,2020-03-27,0.695,0.884,-2.278,0.0753,0.0561,0.0,0.213,0.914,6.0,0.0,103.014,203808.0
+Poker Face,Lady Gaga,Pop,5R8dQOPq8haW94K7mgERlO,Poker Face,The Fame,76.0,N,2008-01-01,0.851,0.806,-4.618,0.0787,0.119,1.72e-06,0.121,0.774,4.0,1.0,119.001,237200.0
+Someone Like You,Adele,Pop,1zwMYTA5nlNjZxYrvBB2pV,Someone Like You,21,78.0,N,2011-01-24,0.556,0.319,-8.251,0.0281,0.893,0.0,0.0996,0.294,9.0,1.0,135.187,285240.0
+Happy,Pharrell Williams,Pop,60nZcImufyMA1MKQY3dcCH,"Happy - From ""Despicable Me 2""",G I R L,79.0,N,2014-03-03,0.647,0.822,-4.662,0.183,0.219,0.0,0.0908,0.962,5.0,0.0,160.019,232720.0
+Sugar,Maroon 5,Pop,2iuZJX9X9P0GKaE93xcPjk,Sugar,V,78.0,N,2014-09-02,0.748,0.788,-7.055,0.0334,0.0591,0.0,0.0863,0.884,1.0,1.0,120.076,235493.0
+New Rules,Dua Lipa,Pop,2ekn2ttSfGqwhhate0LSR0,New Rules,Dua Lipa (Deluxe),79.0,N,2017-06-02,0.762,0.7,-6.021,0.0694,0.00261,1.56e-05,0.153,0.608,9.0,0.0,116.073,209320.0
+Can't Stop the Feeling!,Justin Timberlake,Pop,1WkMMavIMc4JZ8cfMmxHkI,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",TROLLS (Original Motion Picture Soundtrack),71.0,N,2016-09-23,0.669,0.832,-5.721,0.0682,0.0106,0.0,0.0968,0.7,0.0,1.0,113.035,237547.0
+Truth Hurts,Lizzo,Pop,3HWzoMvoF3TQfYg4UPszDq,Truth Hurts,Cuz I Love You (Super Deluxe),69.0,N,2019-04-19,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,4.0,0.0,158.087,173325.0
+Locked Out of Heaven,Bruno Mars,Pop,3w3y8KPTfNeOKPiqUTakBh,Locked out of Heaven,Unorthodox Jukebox,87.0,N,2012-12-07,0.726,0.698,-4.165,0.0431,0.049,0.0,0.309,0.867,5.0,1.0,143.994,233478.0
+Bad Guy,Billie Eilish,Pop,2Fxmhks0bxGSBdJ92vM42m,bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",80.0,N,2019-03-29,0.701,0.425,-10.965,0.375,0.328,0.13,0.1,0.562,7.0,1.0,135.128,194088.0
+Watermelon Sugar,Harry Styles,Pop,6UelLqGlWMcVH1E5c4H7lY,Watermelon Sugar,Fine Line,83.0,N,2019-12-13,0.548,0.816,-4.209,0.0465,0.122,0.0,0.335,0.557,0.0,1.0,95.39,174000.0
+Shake It Off,Taylor Swift,Pop,5xTtaWoae3wi06K5WfVUUH,Shake It Off,1989,69.0,N,2014-10-27,0.647,0.785,-5.414,0.165,0.0561,0.0,0.148,0.943,7.0,1.0,160.015,219200.0
+We Found Love,Rihanna ft. Calvin Harris,Pop,5HMiF48eiKHttTtSGg7XPb,We Found Love (Originally Performed by Rihanna Ft. Calvin Harris) - Karaoke Version,We Found Love,2.0,N,2013-01-22,0.783,0.918,-7.143,0.0427,0.00216,0.874,0.0673,0.395,3.0,0.0,128.027,216032.0
+All of Me,John Legend,Pop,3U4isOIWM3VvDubwSI3y7a,All of Me,Love In The Future (Expanded Edition),84.0,N,2013-08-30,0.422,0.264,-7.064,0.0322,0.922,0.0,0.132,0.331,8.0,1.0,119.93,269560.0
+Girls Like You,Maroon 5 ft. Cardi B,Pop,4Ce5MdtuoNem3Oh1zYTUR8,Dance Comercial 13 Maroon-5-Ft.-Cardi-B-Girls-Like-You,Dance Comercial Play 01,27.0,N,2021-06-13,0.534,0.965,-0.044,0.134,0.0192,0.167,0.0346,0.88,0.0,1.0,127.989,333936.0
+Hello,Adele,Pop,62PaSfnXSMyLshYJrlTuL3,Hello,25,71.0,N,2015-11-20,0.578,0.43,-6.134,0.0305,0.33,0.0,0.0854,0.288,5.0,0.0,78.991,295502.0
+Thinking Out Loud,Ed Sheeran,Pop,34gCuhDGsG4bRPIf9bb02f,Thinking out Loud,x (Deluxe Edition),80.0,N,2014-06-21,0.781,0.445,-6.061,0.0295,0.474,0.0,0.184,0.591,2.0,1.0,78.998,281560.0
+Chandelier,Sia,Pop,2s1sdSqGcKxpPr5lCl7jAV,Chandelier,1000 Forms Of Fear (Deluxe Version),69.0,N,2015-05-04,0.399,0.787,-2.88,0.0499,0.0197,6.07e-05,0.0685,0.572,1.0,1.0,117.089,216120.0
+Diamonds,Rihanna,Pop,1z9kQ14XBSN0r2v6fx4IdG,Diamonds,Unapologetic - Edited Version,71.0,N,2012-01-01,0.562,0.709,-4.92,0.0424,0.00124,0.0,0.109,0.401,11.0,0.0,91.958,225147.0
+Old Town Road,Lil Nas X ft. Billy Ray Cyrus,Pop,2xHxKGGGQjudyLpAQrHRHU,Old Town Road (Remix) [made popular by Lil Nas X ft. Billy Ray Cyrus] [vocal version],Pop Party Pack 9 - Party Tyme (Vocal Versions),0.0,N,2024-02-16,0.869,0.512,-9.575,0.0824,0.138,0.0,0.0969,0.622,6.0,1.0,135.97,157075.0
+Dark Horse,Katy Perry ft. Juicy J,Pop,22TyLtNKzWWsJx9A6IzZ02,Dark Horse (Originally by Katy Perry ft. Juicy J),Covers and Collabs Vol. 1,0.0,N,2014-03-26,0.61,0.502,-6.417,0.0273,0.523,0.0,0.107,0.329,8.0,1.0,130.15,168000.0
+Sorry Not Sorry,Demi Lovato,Pop,0yvPEnB032fojLfVluFjUv,Sorry Not Sorry,Tell Me You Love Me,71.0,N,2017-09-29,0.705,0.643,-6.929,0.232,0.0242,0.0,0.262,0.884,11.0,0.0,143.944,203760.0
+Party in the U.S.A.,Miley Cyrus,Pop,5Q0Nhxo0l2bP3pNjpGJwV1,Party In The U.S.A.,The Time Of Our Lives,76.0,N,2009-01-01,0.652,0.698,-4.667,0.042,0.00112,0.000115,0.0886,0.47,10.0,0.0,96.021,202067.0
+Cool for the Summer,Demi Lovato,Pop,3uwnnTQcHM1rDqSfA4gQNz,Cool for the Summer,Confident,75.0,N,2015-01-01,0.583,0.61,-5.639,0.0382,0.00425,0.000105,0.14,0.336,5.0,0.0,114.06,214740.0
+Love Me Like You Do,Ellie Goulding,Pop,3zHq9ouUJQFQRf3cm1rRLu,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Delirium (Deluxe),74.0,N,2015-11-06,0.262,0.606,-6.646,0.0484,0.247,0.0,0.125,0.275,8.0,1.0,189.857,252534.0
+Señorita,Shawn Mendes & Camila Cabello,Pop,0TK2YIli7K1leLovkQiNik,Señorita,Señorita,75.0,Y,2019-06-21,0.759,0.54,-6.039,0.0287,0.037,0.0,0.0945,0.75,9.0,0.0,116.947,190960.0
+The Middle,"Zedd, Maren Morris & Grey",Pop,09IStsImFySgyp0pIQdqAc,The Middle,The Middle,77.0,Y,2018-01-23,0.753,0.657,-3.061,0.0449,0.171,0.0,0.112,0.437,7.0,1.0,107.01,184732.0
+Stitches,Shawn Mendes,Pop,5jsw9uXEGuKyJzs0boZ1bT,Stitches,Handwritten,82.0,N,2015-04-14,0.752,0.754,-6.684,0.0615,0.0151,0.0,0.0486,0.755,1.0,1.0,149.789,206880.0
+What Do You Mean?,Justin Bieber,Pop,4B0JvthVoAAuygILe3n4Bs,What Do You Mean?,Purpose (Deluxe),79.0,N,2015-11-13,0.845,0.567,-8.118,0.0956,0.59,0.00142,0.0811,0.793,5.0,0.0,125.02,205680.0
+Don't Start Now,Dua Lipa,Pop,3PfIrDoz19wz7qK7tYeu62,Don't Start Now,Future Nostalgia,81.0,N,2020-03-27,0.793,0.793,-4.521,0.083,0.0123,0.0,0.0951,0.679,11.0,0.0,123.95,183290.0
+Wrecking Ball,Miley Cyrus,Pop,2vwlzO0Qp8kfEtzTsCXfyE,Wrecking Ball,Bangerz (Deluxe Version),79.0,N,2013-10-04,0.53,0.422,-6.262,0.0342,0.407,0.0,0.107,0.349,5.0,1.0,119.964,221360.0
+Wake Me Up,Avicii,Pop,0nrRP2bk19rLc0orkWPQk2,Wake Me Up,True,84.0,N,2013-01-01,0.532,0.783,-5.697,0.0523,0.0038,0.0012,0.161,0.643,2.0,1.0,124.08,247427.0
+Cheap Thrills,Sia ft. Sean Paul,Pop,0ix9DhfJWe4fAWJjdJdXkx,Cheap Thrills - Reprise to Sia Ft. Sean Paul,Workout Pump Hits,16.0,N,2017-02-18,0.582,0.548,-6.659,0.0596,0.00827,7.57e-06,0.0807,0.81,6.0,0.0,179.815,204336.0
+Break My Heart,Dua Lipa,Pop,017PF4Q3l4DBUiWoXk4OWT,Break My Heart,Future Nostalgia,75.0,N,2020-03-27,0.73,0.729,-3.434,0.0884,0.167,1.39e-06,0.349,0.467,4.0,0.0,113.011,221820.0
+Dangerous Woman,Ariana Grande,Pop,6RUhbFEhrvGISaQ8u2j2JN,Dangerous Woman,Dangerous Woman,69.0,N,2016-05-20,0.664,0.602,-5.369,0.0412,0.0529,0.0,0.356,0.289,4.0,0.0,134.049,235947.0
+7 Rings,Ariana Grande,Pop,6ocbgoVGwYJhOv1GgI9NsF,7 rings,"thank u, next",82.0,N,2019-02-08,0.777,0.317,-10.732,0.308,0.591,0.0,0.0881,0.33,1.0,0.0,139.848,178627.0
+Lose You To Love Me,Selena Gomez,Pop,4l0Mvzj72xxOpRrp6h8nHi,Lose You To Love Me,Rare,75.0,N,2020-01-10,0.516,0.342,-8.985,0.0425,0.55,0.0,0.21,0.0993,4.0,1.0,102.819,206459.0
+Lover,Taylor Swift,Pop,1dGr1c8CrMLDpV6mPbImSI,Lover,Lover,85.0,N,2019-08-23,0.359,0.543,-7.582,0.0919,0.492,1.58e-05,0.118,0.453,7.0,1.0,68.534,221307.0
+Me!,Taylor Swift ft. Brendon Urie,Pop,2Rk4JlNc2TPmZe2af99d45,ME! (feat. Brendon Urie of Panic! At The Disco),Lover,73.0,Y,2019-08-23,0.61,0.83,-4.105,0.0571,0.033,0.0,0.118,0.728,0.0,1.0,182.162,193000.0
+Just Dance,Lady Gaga ft. Colby O'Donis,Pop,2x7MyWybabEz6Y6wvHuwGE,Just Dance,The Fame,74.0,Y,2008-01-01,0.822,0.739,-4.541,0.0311,0.0264,4.28e-05,0.181,0.745,1.0,0.0,118.99,241933.0
+Umbrella,Rihanna ft. Jay-Z,Pop,2E5RQ54P4GP9AI9p5vtZuz,Umbrella - Made famous by Rihanna Ft. Jay Z,2007 Hot Hits vol 4,10.0,N,2010-11-30,0.573,0.854,-4.411,0.0771,0.0647,0.0,0.0353,0.788,1.0,1.0,174.126,260694.0
+Peaches,"Justin Bieber ft. Daniel Caesar, Giveon",Pop,7GCCkL5embPPU3MB0xY79C,Peaches (made popular by Justin Bieber ft. Daniel Caesar & GIVEON) [backing version],Super Hits 38 - Party Tyme (Backing Versions),0.0,N,2024-03-04,0.688,0.339,-11.529,0.0354,0.228,0.3,0.385,0.372,0.0,1.0,89.974,198200.0
+Savage Love,Jawsh 685 & Jason Derulo,Pop,1xQ6trAsedVPCdbtDAmk0c,Savage Love (Laxed - Siren Beat),Savage Love (Laxed - Siren Beat),70.0,Y,2020-06-11,0.767,0.481,-8.52,0.0803,0.234,0.0,0.269,0.761,0.0,0.0,150.076,171375.0
+I Gotta Feeling,The Black Eyed Peas,Pop,2H1047e0oMSj10dgp7p2VG,I Gotta Feeling,THE E.N.D. (THE ENERGY NEVER DIES),74.0,N,2009-01-01,0.744,0.766,-6.375,0.0265,0.0873,0.0,0.509,0.61,0.0,1.0,127.966,289133.0
+Good 4 U,Olivia Rodrigo,Pop,4ZtFanR9U6ndgddUvNcjcG,good 4 u,SOUR,82.0,N,2021-05-21,0.563,0.664,-5.044,0.154,0.335,0.0,0.0849,0.688,9.0,1.0,166.928,178147.0
+Deja Vu,Olivia Rodrigo,Pop,6HU7h9RYOaPRFeh0R3UeAr,deja vu,SOUR,83.0,N,2021-05-21,0.442,0.612,-7.222,0.112,0.584,5.7e-06,0.37,0.178,2.0,1.0,180.917,215507.0
+Ghost,Justin Bieber,Pop,6I3mqTwhRpn34SLVafSH7G,Ghost,Justice,84.0,N,2021-03-19,0.601,0.741,-5.569,0.0478,0.185,2.91e-05,0.415,0.441,2.0,1.0,153.96,153190.0
+Stay,The Kid LAROI & Justin Bieber,Pop,567e29TDzLwZwfDuEpGTwo,STAY (with Justin Bieber),F*CK LOVE 3+: OVER YOU,83.0,Y,2021-07-27,0.591,0.764,-5.484,0.0483,0.0383,0.0,0.103,0.478,1.0,1.0,169.928,141806.0
+Montero (Call Me By Your Name),Lil Nas X,Pop,1SC5rEoYDGUK4NfG82494W,MONTERO (Call Me By Your Name),MONTERO,77.0,N,2021-09-17,0.593,0.503,-6.725,0.22,0.293,0.0,0.405,0.71,8.0,0.0,178.781,137704.0
+Heat Waves,Glass Animals,Pop,3USxtqRwSYz57Ewm6wWRMp,Heat Waves,Dreamland,85.0,N,2020-08-07,0.761,0.525,-6.9,0.0944,0.44,6.7e-06,0.0921,0.531,11.0,1.0,80.87,238805.0
+Levitating,Dua Lipa,Pop,39LLxExYz6ewLAcYrzQQyP,Levitating,Future Nostalgia,75.0,N,2020-03-27,0.695,0.884,-2.278,0.0753,0.0561,0.0,0.213,0.914,6.0,0.0,103.014,203808.0
+Dance Monkey,Tones and I,Pop,2XU0oxnq2qxCpomAAuJY8K,Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,73.0,N,2019-10-17,0.824,0.588,-6.4,0.0924,0.692,0.000104,0.149,0.513,6.0,0.0,98.027,209438.0
+Kings & Queens,Ava Max,Pop,7a53HqqArd4b9NF4XAmlbI,Kings & Queens,Heaven & Hell,80.0,N,2020-09-18,0.637,0.69,-4.057,0.0405,0.00786,0.0,0.124,0.457,1.0,0.0,129.857,162399.0
+In My Blood,Shawn Mendes,Pop,2QZ7WLBE8h2y1Y5Fb8RYbH,In My Blood,Shawn Mendes,71.0,N,2018-05-25,0.622,0.711,-7.321,0.0665,0.0573,0.0,0.13,0.487,5.0,1.0,140.016,211360.0
+Without Me,Halsey,Pop,6FZDfxM3a3UCqtzo5pxSLZ,Without Me,Manic,77.0,N,2020-01-17,0.752,0.488,-7.05,0.0705,0.293,9.2e-06,0.0936,0.533,6.0,1.0,136.07,201661.0
+No Tears Left To Cry,Ariana Grande,Pop,2qT1uLXPVPzGgFOx4jtEuo,no tears left to cry,Sweetener,74.0,N,2018-08-17,0.699,0.713,-5.507,0.0594,0.04,3.11e-06,0.294,0.354,9.0,0.0,121.993,205920.0
+Dynamite,BTS,Pop,5QDLhrAOJJdNAmCTJ8xMyW,Dynamite,BE,78.0,N,2020-11-20,0.746,0.765,-4.41,0.0993,0.0112,0.0,0.0936,0.737,6.0,0.0,114.044,199054.0
+Butter,BTS,Pop,1mWdTewIgB3gtBM3TOSFhB,Butter,"Butter (Hotter, Sweeter, Cooler)",65.0,N,2021-06-04,0.759,0.459,-5.187,0.0948,0.00323,0.0,0.0906,0.695,8.0,1.0,109.997,164442.0
+Intentions,Justin Bieber ft. Quavo,Pop,3tCfFZPghiF08J5xxaSBox,Intentions (made popular by Justin Bieber ft. Quavo) [vocal version],Pop Party Pack 9 - Party Tyme (Vocal Versions),0.0,N,2024-02-16,0.829,0.459,-8.63,0.0628,0.448,0.0,0.102,0.89,9.0,1.0,148.001,212950.0
+Say So,Doja Cat,Pop,3Dv1eDb0MEgF93GpLXlucZ,Say So,Hot Pink,74.0,N,2019-11-07,0.787,0.673,-4.583,0.159,0.264,3.35e-06,0.0904,0.779,11.0,0.0,110.962,237893.0
+Beautiful People,Ed Sheeran ft. Khalid,Pop,58uaN8HmcxWPQRkvTls78h,Beautiful People (made popular by Ed Sheeran ft. Khalid) [backing version],Pop Male Hits 36-S - Party Tyme (Backing Versions),0.0,N,2024-07-12,0.78,0.343,-12.978,0.126,0.482,0.722,0.0801,0.699,8.0,1.0,92.972,195370.0
+Talking to the Moon,Bruno Mars,Pop,161DnLWsx1i3u1JT05lzqU,Talking to the Moon,Doo-Wops & Hooligans,83.0,N,2010-05-11,0.498,0.59,-4.721,0.032,0.511,0.0,0.107,0.0784,1.0,0.0,145.867,217867.0
+Electricity,Silk City & Dua Lipa,Pop,5N4erncE7kuUccm7zEmwzk,Electricity,Electricity,66.0,Y,2018-09-06,0.588,0.67,-6.439,0.0473,0.0104,3.33e-06,0.338,0.505,0.0,1.0,118.159,238173.0
+Take You Dancing,Jason Derulo,Pop,3at4D3FZnJnYR0Mfcn6JSN,Take You Dancing,Nu King,63.0,N,2024-02-16,0.78,0.687,-5.22,0.0468,0.0411,0.0,0.0701,0.741,2.0,1.0,112.975,190306.0
+Who's Laughing Now,Ava Max,Pop,1Pmp486RrLRkaEkE3HFHXP,Who's Laughing Now,Heaven & Hell,61.0,N,2020-09-18,0.648,0.641,-5.521,0.0389,0.00565,3.63e-06,0.109,0.505,7.0,1.0,184.021,180348.0

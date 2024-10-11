@@ -1,0 +1,98 @@
+Title,Artist,Genre,id,title_spotify,album,sp_popularity,colab,release_date,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,mode,tempo,duration
+Superstition,Stevie Wonder,R&B,4N0TP4Rmj6QQezWV88ARNJ,Superstition,Talking Book,63.0,N,1972-10-28,0.611,0.578,-14.171,0.0676,0.0598,0.0219,0.0983,0.884,1.0,1.0,100.625,266133.0
+What's Going On,Marvin Gaye,R&B,3Um9toULmYFGCpvaIPFw7l,What's Going On,What's Going On,67.0,N,1971-05-21,0.283,0.716,-9.632,0.0986,0.447,0.0,0.399,0.828,1.0,0.0,201.96,233000.0
+Respect,Aretha Franklin,R&B,7s25THrKz86DM225dOYwnr,Respect,I Never Loved a Man the Way I Love You,75.0,N,1967-03-10,0.805,0.558,-5.226,0.041,0.164,2.2e-05,0.0546,0.965,0.0,1.0,114.95,147600.0
+Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,R&B,7tqhbajSfrz2F7E1Z75ASX,Ain't No Mountain High Enough,United,84.0,Y,1967-08-29,0.663,0.6,-10.87,0.032,0.43,0.0,0.184,0.797,7.0,1.0,129.987,151667.0
+I Will Always Love You,Whitney Houston,R&B,4eHbdreAnSOrDDsFfc4Fpm,I Will Always Love You,The Bodyguard - Original Soundtrack Album,77.0,N,1992-11-17,0.332,0.214,-12.518,0.0349,0.845,5.62e-06,0.0839,0.11,4.0,1.0,67.531,271093.0
+I Want You Back,The Jackson 5,R&B,5LxvwujISqiB8vpRYv887S,I Want You Back,Diana Ross Presents The Jackson 5,75.0,N,1969-12-18,0.469,0.538,-13.559,0.0575,0.305,0.000114,0.37,0.885,8.0,1.0,196.606,176333.0
+Crazy in Love,Beyoncé ft. Jay-Z,R&B,093pgg3k5xpZRpS5NKesyU,Crazy In Love (Beyonce ft. Jay-Z) - Karaoke Version,Karaoke Bash: Top Hits,3.0,N,2004,0.58,0.747,-8.84,0.141,0.000484,0.579,0.1,0.845,2.0,0.0,198.765,253907.0
+Let's Stay Together,Al Green,R&B,63xdwScd1Ai1GigAwQxE8y,Let's Stay Together,Let's Stay Together,75.0,N,1972,0.756,0.401,-10.702,0.0526,0.582,0.011,0.0541,0.514,7.0,0.0,101.954,199396.0
+No Scrubs,TLC,R&B,1KGi9sZVMeszgZOWivFpxs,No Scrubs,Fanmail,82.0,N,1999-02-23,0.743,0.675,-4.267,0.0953,0.0251,0.000717,0.0685,0.59,8.0,0.0,92.909,214400.0
+Adorn,Miguel,R&B,25cUhiAod71TIQSNicOaW3,Adorn,Kaleidoscope Dream,70.0,N,2012-09-28,0.625,0.576,-5.693,0.175,0.0543,4.07e-05,0.187,0.235,11.0,0.0,179.063,193147.0
+Back to Black,Amy Winehouse,R&B,30FURVTCpbKyykjSEQzGkH,Back To Black,Back To Black,70.0,N,2006-10-27,0.49,0.725,-3.304,0.0392,0.123,2.68e-05,0.0983,0.335,10.0,1.0,123.28,240440.0
+Un-break My Heart,Toni Braxton,R&B,5Ihd9HrPvOADyVoonH9ZjB,Un-Break My Heart,Secrets,69.0,N,1996-06-18,0.625,0.426,-8.4,0.0271,0.412,0.0,0.116,0.112,2.0,0.0,110.021,270333.0
+Ordinary People,John Legend,R&B,2ZA4uMlSZjaoWGFqP1tsLI,Ordinary People,Get Lifted,62.0,N,2005-12-06,0.469,0.132,-14.001,0.0798,0.928,0.0,0.0873,0.36,10.0,1.0,66.989,281467.0
+Try Again,Aaliyah,R&B,0EvX3wUXm0Xds8ZTA7oXOJ,Try Again,Aaliyah,59.0,N,2001-07-07,0.794,0.662,-4.913,0.249,0.0789,0.0,0.0938,0.683,6.0,0.0,93.053,284640.0
+No Diggity,Blackstreet ft. Dr. Dre,R&B,1IRvMomMM57s67Fjzd8Dhs,No Diggity (made popular by Blackstreet ft. Dr Dre) [backing version],R&B Male Hits 6 - Party Tyme - Backing Versions,2.0,N,2023-09-15,0.857,0.563,-6.723,0.0637,0.198,0.06,0.0704,0.34,7.0,1.0,88.997,249341.0
+End of the Road,Boyz II Men,R&B,3l3xTXsUXeWlkPqzMs7mPD,End Of The Road,Cooleyhighharmony (Bonus Tracks Version),69.0,N,1991-04-30,0.641,0.428,-9.29,0.024,0.0666,0.0,0.0579,0.53,5.0,0.0,149.705,351467.0
+We Belong Together,Mariah Carey,R&B,3LmvfNUQtglbTrydsdIqFU,We Belong Together,The Emancipation of Mimi,70.0,N,2005-04-12,0.833,0.467,-7.89,0.0619,0.0339,0.0,0.09,0.767,0.0,1.0,139.971,201400.0
+Say My Name,Destiny's Child,R&B,7H6ev70Weq6DdpZyyTmUXk,Say My Name,The Writing's On The Wall,79.0,N,1999-07-27,0.713,0.678,-3.525,0.102,0.273,0.0,0.149,0.734,5.0,0.0,138.009,271333.0
+Pony,Ginuwine,R&B,6mz1fBdKATx6qP4oP1I65G,Pony,R&B: From Doo-Wop To Hip-Hop,69.0,N,1999-10-08,0.749,0.605,-9.359,0.086,0.00186,0.0381,0.115,0.966,8.0,0.0,142.024,251733.0
+The Boy Is Mine,Brandy & Monica,R&B,6sHsXIJoEN5JpdkGMQDJxt,The Boy Is Mine,Never Say Never,73.0,Y,1998-05-29,0.704,0.707,-6.537,0.0391,0.539,0.00106,0.318,0.761,1.0,0.0,93.145,294787.0
+Untitled (How Does It Feel),D'Angelo,R&B,4oPNN7syJYSjzDhRerF966,Untitled (How Does It Feel),Voodoo,57.0,N,2000-01-01,0.838,0.304,-9.975,0.0626,0.16,0.0267,0.0828,0.221,4.0,0.0,112.618,430800.0
+All My Life,K-Ci & JoJo,R&B,5GorFaKkP2mLREQvhSblIg,All My Life,Love Always,68.0,N,1997-01-01,0.634,0.512,-8.651,0.0285,0.114,3.91e-06,0.0588,0.193,1.0,1.0,128.019,331240.0
+Rock the Boat,Aaliyah,R&B,7vVJ8Wom7dKf13dgNiBYtU,Rock The Boat,Aaliyah,55.0,N,2001-07-07,0.637,0.725,-5.073,0.0333,0.0702,0.00438,0.203,0.415,5.0,1.0,92.99,274733.0
+Kiss,Prince,R&B,62LJFaYihsdVrrkgUOJC05,Kiss,Parade - Music from the Motion Picture Under the Cherry Moon,73.0,N,1986-03-31,0.898,0.271,-12.238,0.091,0.0135,0.00138,0.0461,0.742,7.0,1.0,111.485,226240.0
+On & On,Erykah Badu,R&B,0tNuJpBgtE65diL6Q8Q7fI,On & On,Baduizm,68.0,N,1997-01-01,0.761,0.403,-10.424,0.158,0.0392,0.0113,0.256,0.346,11.0,0.0,80.476,226133.0
+If I Ain't Got You,Alicia Keys,R&B,3XVBdLihbNbxUwZosxcGuJ,If I Ain't Got You,The Diary Of Alicia Keys,83.0,N,2003-12-02,0.609,0.444,-9.129,0.106,0.603,6.86e-06,0.104,0.166,7.0,1.0,118.402,228707.0
+"Do Right Woman, Do Right Man",Aretha Franklin,R&B,6cLEpgDcEldV1n9gusHQUX,"Do Right Woman, Do Right Man",I Never Loved a Man the Way I Love You,48.0,N,1967-03-10,0.668,0.284,-10.192,0.0413,0.706,0.0,0.131,0.491,9.0,1.0,134.911,196640.0
+Bump n' Grind,R. Kelly,R&B,0DBIL8arX0Zo6eAuxNIpik,Bump n' Grind,12 Play,56.0,N,1993-11-07,0.621,0.481,-8.016,0.0371,0.0984,0.0,0.241,0.679,11.0,1.0,65.004,256133.0
+Remember the Time,Michael Jackson,R&B,4jnFqNWeJCeCRHc4HCdxfd,Remember the Time,Dangerous,72.0,N,1991-11-13,0.831,0.921,-2.383,0.0582,0.153,0.00224,0.305,0.795,5.0,0.0,108.002,239227.0
+Can We Talk,Tevin Campbell,R&B,6a5jHgwqYMk9wlYJYfs3c9,Can We Talk,The Best of Tevin Campbell,60.0,N,2001,0.658,0.711,-7.424,0.0425,0.0759,1.77e-05,0.0446,0.614,2.0,0.0,172.365,284587.0
+I Believe I Can Fly,R. Kelly,R&B,2RzJwBCXsS1VnjDm2jKKAa,I Believe I Can Fly,R.,58.0,N,1998-11-08,0.55,0.444,-7.588,0.0292,0.241,0.0,0.187,0.0438,7.0,1.0,120.179,320667.0
+Waterfalls,TLC,R&B,6qspW4YKycviDFjHBOaqUY,Waterfalls,Crazysexycool,74.0,N,1994-11-15,0.769,0.505,-7.345,0.0829,0.311,7.49e-05,0.0777,0.757,1.0,1.0,171.804,279507.0
+Back at One,Brian McKnight,R&B,6mwA6YiKDjAUG8kWvRRUPh,Back At One,Back At One,67.0,N,1999-09-21,0.66,0.347,-9.114,0.03,0.452,0.0,0.131,0.256,11.0,1.0,129.747,263667.0
+Twist and Shout,The Isley Brothers,R&B,7iFdUmdqT9XrsJdSGf9KrX,Twist And Shout,Twist & Shout,50.0,N,2005,0.774,0.811,-6.526,0.0355,0.65,0.0,0.0736,0.963,5.0,1.0,123.354,155400.0
+Ex-Factor,Lauryn Hill,R&B,2VjXGuPVVxyhMgER3Uz2Fe,Ex-Factor,The Miseducation of Lauryn Hill,74.0,N,1998-08-25,0.593,0.619,-9.003,0.0976,0.118,0.0,0.484,0.668,3.0,0.0,80.02,326533.0
+Fallin',Alicia Keys,R&B,0KQx6HOpJueiSkztcS0r7D,Fallin',Songs In A Minor,77.0,N,2001-06-05,0.652,0.609,-7.519,0.037,0.263,0.00101,0.233,0.482,11.0,0.0,95.986,210200.0
+You Make Me Wanna,Usher,R&B,47TqCCnEliDp8NRDyIQoQq,You Make Me Wanna...,My Way,68.0,N,1997-09-16,0.761,0.639,-7.577,0.0539,0.0359,0.0,0.0945,0.922,5.0,0.0,164.088,219120.0
+Let's Get It On,Marvin Gaye,R&B,5yr8pi3uCjTYOnTqstBBdm,Let's Get It On,Let's Get It On (Deluxe Edition),49.0,N,2023-08-25,0.502,0.769,-4.946,0.0882,0.137,2e-06,0.0592,0.594,3.0,1.0,167.238,293768.0
+My Boo,Usher & Alicia Keys,R&B,68vgtRHr7iZHpzGpon6Jlo,My Boo,Confessions (Expanded Edition),80.0,Y,2004-03-23,0.662,0.507,-8.238,0.118,0.257,0.0,0.0465,0.676,5.0,1.0,86.412,223440.0
+Love,Musiq Soulchild,R&B,6uSa5iCMwPr10Ftpz8w09b,Love,Aijuswanaseing,54.0,N,2000-01-01,0.569,0.385,-9.919,0.0499,0.342,0.0,0.0876,0.339,1.0,0.0,99.749,304667.0
+Back to Sleep,Chris Brown,R&B,6dlpABcXrQKRU9G00i6Zba,Back To Sleep,Royalty (Deluxe Version),63.0,N,2015-12-18,0.647,0.646,-5.483,0.243,0.0424,0.0,0.0888,0.721,9.0,0.0,92.981,201253.0
+Work It Out,Beyoncé,R&B,3hBf0RhTUX3qKJFKaagnIg,Work It Out - New Radio Edit,Work It Out,34.0,N,2002-06-17,0.674,0.838,-4.066,0.2,0.417,0.0,0.189,0.96,5.0,1.0,173.946,221773.0
+Don't Leave Me,Blackstreet,R&B,4Lw1ePUkkLEG9kIVhpslO0,Don't Leave Me,The Best Of BLACKstreet - 20th Century Masters The Millennium Collection,50.0,N,2004-01-01,0.789,0.541,-5.067,0.0341,0.0498,0.0,0.0908,0.71,2.0,0.0,81.826,311640.0
+Love on Top,Beyoncé,R&B,1z6WtY7X4HQJvzxC4UgkSf,Love On Top,4,72.0,N,2011-06-24,0.652,0.749,-5.248,0.0886,0.0848,0.0,0.604,0.651,0.0,1.0,94.103,267413.0
+Foolish,Ashanti,R&B,6zMUIb4uce1CzpbjR3vMdN,Foolish,Ashanti,72.0,N,2002-01-01,0.665,0.695,-5.763,0.0532,0.347,0.0,0.106,0.707,0.0,1.0,90.119,227387.0
+Cupid,112,R&B,3kVIFDE3G89I2RPVkiRaRj,Cupid,112,62.0,N,1996-08-27,0.685,0.38,-11.219,0.112,0.373,0.0,0.0371,0.87,8.0,1.0,175.562,252267.0
+Fortunate,Maxwell,R&B,2RtvkLz5tmOXlzz918It6E,Fortunate,Fortunate,59.0,N,1999-03-03,0.74,0.359,-8.309,0.0462,0.0951,0.0,0.129,0.377,10.0,0.0,126.15,301160.0
+Me & U,Cassie,R&B,7k6IzwMGpxnRghE7YosnXT,Me & U,Cassie (U.S. Version),77.0,N,2006-08-07,0.803,0.454,-4.802,0.0294,0.352,0.0,0.0655,0.739,8.0,0.0,99.99,192213.0
+Let Me Love You,Mario,R&B,3ibKnFDaa3GhpPGlOUj7ff,Let Me Love You,Let Me Love You,72.0,N,2004-09-21,0.656,0.578,-8.97,0.0922,0.235,0.0,0.118,0.556,7.0,0.0,94.514,256733.0
+Nobody,Keith Sweat,R&B,4SF1747p541umnykBp352Q,Nobody (feat. Athena Cage),Keith Sweat,62.0,Y,1996,0.699,0.492,-9.449,0.0318,0.484,0.0,0.0482,0.388,9.0,0.0,117.907,264773.0
+Real Love,Mary J. Blige,R&B,3XG801WWhqC753dekEBkMt,Real Love,What's The 411?,62.0,N,1992-01-01,0.769,0.781,-5.472,0.0797,0.12,0.00037,0.0506,0.826,0.0,1.0,95.021,269973.0
+You're Makin' Me High,Toni Braxton,R&B,5bJ796cOnGBzSN5bm4mwMj,You're Makin' Me High,Secrets,60.0,N,1996-06-18,0.853,0.563,-8.663,0.0379,0.0118,2.12e-05,0.119,0.893,10.0,0.0,92.112,267440.0
+I Wanna Dance with Somebody,Whitney Houston,R&B,2tUBqZG2AbRi7Q0BIrVrEj,I Wanna Dance with Somebody (Who Loves Me),Whitney,81.0,N,1987-06-02,0.709,0.824,-8.824,0.0453,0.207,0.000307,0.0888,0.867,1.0,1.0,118.818,291293.0
+Feel the Fire,Stephanie Mills,R&B,2Dlo3MHqNxgRKOX6KAmWWO,Feel the Fire,TP (Expanded Edition),43.0,Y,1980-07-25,0.428,0.367,-12.35,0.0657,0.566,0.0,0.102,0.331,5.0,1.0,100.742,332867.0
+Ascension (Don't Ever Wonder),Maxwell,R&B,6l4TNbfPtNAOOlGIfceSaO,Ascension (Don't Ever Wonder) - Remastered 2021,Maxwell's Urban Hang Suite,62.0,N,1996-04-02,0.762,0.459,-10.307,0.0379,0.111,0.0219,0.147,0.749,0.0,1.0,96.069,345976.0
+Boo'd Up,Ella Mai,R&B,0At2qAoaVjIwWNAqrscXli,Boo'd Up,READY,65.0,N,2017-02-22,0.561,0.779,-5.107,0.0531,0.0862,0.0,0.078,0.235,10.0,0.0,81.965,256064.0
+Let It Burn,Usher,R&B,4246UjQPBpiu6SgyNkyxgv,Let It Burn Like Usher,Back Rapping,0.0,Y,2021-12-24,0.726,0.704,-7.829,0.104,0.081,0.000931,0.317,0.251,1.0,1.0,97.413,138789.0
+Tell Me,Groove Theory,R&B,2lp8xjq0WTm3HZKHuDEweg,Tell Me,Groove Theory,62.0,N,1995-07-25,0.8,0.362,-10.849,0.0634,0.035,3.99e-06,0.0667,0.888,6.0,0.0,93.059,236067.0
+Single Ladies (Put a Ring on It),Beyoncé,R&B,5R9a4t5t5O0IsznsrKPVro,Single Ladies (Put a Ring on It),I AM...SASHA FIERCE,65.0,N,2008-11-17,0.426,0.584,-5.293,0.296,0.0383,0.0,0.188,0.272,1.0,1.0,193.437,193213.0
+U Remind Me,Usher,R&B,2QsZVnbWVSjKMXK6K3uRBL,U Remind Me,8701,71.0,N,2001-08-07,0.657,0.629,-4.938,0.0782,0.194,0.0,0.254,0.726,6.0,1.0,93.985,266893.0
+Don't You Worry 'Bout a Thing,Stevie Wonder,R&B,0Os5joeFKlhI8N57GBF8cG,Don't You Worry 'Bout A Thing,The Wonder Of Stevie (Music From the Audible Original Podcast),23.0,N,2024-09-26,0.715,0.725,-9.218,0.0411,0.0316,0.0,0.066,0.92,11.0,1.0,124.704,284840.0
+Before I Let Go,Maze ft. Frankie Beverly,R&B,7EIqakFnWSmh4QVU91sY4j,Before I Let Go,Live In New Orleans,45.0,Y,1981-01-09,0.785,0.558,-6.283,0.036,0.197,0.000116,0.064,0.963,6.0,0.0,103.162,306160.0
+Adore,Prince,R&B,7tyckyaQOzlsTjnujLinRt,Adore - 2020 Remaster,Sign O' The Times,42.0,N,1987-03-31,0.717,0.435,-11.57,0.07,0.46,6.39e-05,0.289,0.775,7.0,1.0,129.235,394864.0
+Cranes in the Sky,Solange,R&B,48EjSdYh8wz2gBxxqzrsLe,Cranes in the Sky,A Seat at the Table,62.0,N,2016-09-30,0.719,0.615,-5.972,0.045,0.408,0.000147,0.235,0.465,6.0,1.0,96.988,250973.0
+No Guidance,Chris Brown ft. Drake,R&B,6XHVuErjQ4XNm6nDPVCxVX,No Guidance (feat. Drake),Indigo,75.0,Y,2019-06-28,0.696,0.454,-6.756,0.153,0.123,0.0,0.155,0.136,1.0,0.0,92.928,260640.0
+Touch My Body,Mariah Carey,R&B,2aEuXA1KswHlCGPOuPmCOW,Touch My Body,E=MC2 (Deluxe Version),70.0,N,2008-04-04,0.714,0.665,-7.736,0.0509,0.0996,0.0,0.226,0.842,4.0,0.0,78.515,204733.0
+Nice & Slow,Usher,R&B,5L0KDoZklMgs9GPoonneEl,Nice & Slow - Radio Version,My Way,64.0,N,1997-09-16,0.819,0.299,-11.964,0.122,0.153,0.0,0.3,0.515,5.0,0.0,121.913,227907.0
+In Those Jeans,Ginuwine,R&B,5ojJNnX5ND2gMGojPd3NiO,In Those Jeans,The Senior,59.0,N,2003-04-08,0.691,0.541,-5.873,0.0776,0.508,0.0,0.0753,0.319,1.0,1.0,127.683,243307.0
+Don't,Bryson Tiller,R&B,3pXF1nA74528Edde4of9CC,Don't,T R A P S O U L,83.0,N,2015-10-02,0.765,0.356,-5.556,0.195,0.223,0.0,0.0963,0.189,11.0,0.0,96.991,198293.0
+Golden,Jill Scott,R&B,0bHs3ly4Bv5BlzE3KrePfX,Golden,Beautifully Human: Words and Sounds Vol. 2,54.0,N,2004-08-31,0.769,0.558,-6.232,0.0828,0.275,1.06e-06,0.0758,0.593,10.0,0.0,100.007,231560.0
+Killing Me Softly With His Song,Fugees,R&B,0Q0IVlqMV64kNLlwjPj0Hl,Killing Me Softly With His Song,The Score (Expanded Edition),77.0,Y,1996-02-13,0.765,0.289,-17.125,0.147,0.0268,1.77e-06,0.562,0.501,4.0,0.0,92.413,298667.0
+Say It,Tory Lanez,R&B,2Gyc6e2cLxA5hoX1NOvYnU,Say It,I Told You,74.0,N,2016-08-19,0.546,0.529,-10.511,0.0583,0.0869,6.37e-06,0.124,0.248,11.0,0.0,107.333,237787.0
+Differences,Ginuwine,R&B,0Uyh92tLyb9JawG8lmWCzJ,Differences,The Life,65.0,N,2001-04-03,0.562,0.594,-4.578,0.0558,0.318,0.0,0.311,0.423,3.0,0.0,62.876,265533.0
+Good Kisser,Usher,R&B,3CX3WMBg6lzWk72bYL29vP,Good Kisser,Good Kisser,56.0,N,2014-05-05,0.64,0.782,-4.177,0.189,0.379,0.0,0.109,0.825,5.0,0.0,97.516,249626.0
+Charlene,Anthony Hamilton,R&B,0xiuSFBOEHWaJ6rSuUbJWc,Charlene,Comin' From Where I'm From,59.0,N,2003-07-15,0.556,0.346,-9.809,0.311,0.536,0.0,0.106,0.451,0.0,0.0,123.869,246773.0
+When a Woman's Fed Up,R. Kelly,R&B,015A6ZcNAWSSuwY7iDcD1b,When a Woman's Fed Up,R.,45.0,N,1998-11-08,0.682,0.579,-6.526,0.101,0.467,2.21e-06,0.0952,0.712,2.0,0.0,76.915,278760.0
+Call Out My Name,The Weeknd,R&B,09mEdoA6zrmBPgTEN5qXmN,Call Out My Name,"My Dear Melancholy,",84.0,N,2018-03-30,0.461,0.593,-4.954,0.0356,0.165,0.0,0.307,0.174,1.0,1.0,134.165,228373.0
+Blow Your Mind (Mwah),Dua Lipa,R&B,7kJlTKjNZVT26iwiDUVhRm,Blow Your Mind (Mwah),Blow Your Mind (Mwah),61.0,N,2016-08-26,0.654,0.796,-4.761,0.122,0.0188,0.0,0.0948,0.491,2.0,0.0,108.854,178583.0
+That's the Way Love Goes,Janet Jackson,R&B,29rQJydAlO0uMyWvRIZxQg,That's The Way Love Goes,Janet,65.0,N,1993-05-18,0.703,0.7,-6.789,0.0693,0.302,0.471,0.0718,0.582,5.0,1.0,97.675,265107.0
+How Deep Is Your Love,Dru Hill,R&B,60NvAO9lx0KmBNAVHIlWN6,How Deep Is Your Love,Enter The Dru,56.0,N,1998-01-01,0.729,0.434,-9.111,0.079,0.0473,1.23e-05,0.314,0.743,3.0,0.0,94.411,243360.0
+All Night,Beyoncé,R&B,7oAuqs6akGnPU3Tb00ZmyM,All Night,Lemonade,60.0,N,2016-04-23,0.574,0.573,-7.079,0.085,0.392,2.16e-05,0.0933,0.626,11.0,1.0,136.304,322000.0
+Stay,Rihanna ft. Mikky Ekko,R&B,2JwS47l2MKrOji0ufc6Je0,Stay - Rihanna Ft Mikky Ekko Remix,A TAREFA,0.0,Y,2024-09-11,0.735,0.663,-14.712,0.047,0.00382,0.0561,0.1,0.528,0.0,1.0,117.999,268480.0
+Pretty Wings,Maxwell,R&B,22NLm3IIR9NLG0cUYtmHMW,Pretty Wings - uncut,BLACKsummers'night (2009),61.0,N,2009-07-07,0.563,0.402,-10.496,0.0668,0.252,2.07e-06,0.0886,0.2,9.0,1.0,115.561,310520.0
+Happy,Ashanti,R&B,6CbcdeTQKj0qTaZTt0xkdk,Happy,Ashanti,59.0,N,2002-01-01,0.727,0.515,-6.553,0.0289,0.241,3.74e-06,0.124,0.695,2.0,0.0,89.488,262227.0
+Halo,Beyoncé,R&B,4JehYebiI9JE8sR8MisGVb,Halo,I AM...SASHA FIERCE,71.0,N,2008-11-17,0.508,0.72,-5.908,0.0628,0.272,0.0,0.0563,0.472,11.0,0.0,79.983,261640.0
+So Sick,Ne-Yo,R&B,6brl7bwOHmGFkNw3MBqssT,So Sick,In My Own Words,78.0,N,2006-01-01,0.452,0.574,-8.336,0.311,0.245,0.0,0.189,0.578,6.0,1.0,92.795,207187.0
+My Way,Usher,R&B,5PIveStlGgjVL54GpVcqxr,My Way,My Way,54.0,N,1997-09-16,0.815,0.521,-8.178,0.136,0.0105,0.0,0.0509,0.887,5.0,0.0,90.079,214853.0
+Un-thinkable (I'm Ready),Alicia Keys,R&B,4JOP8ELK6AaeySe7sKe996,Un-thinkable (I'm Ready),The Element Of Freedom,66.0,N,2009-12-15,0.596,0.505,-7.892,0.0619,0.732,1.97e-05,0.106,0.335,7.0,1.0,86.097,249240.0
+Finesse,Bruno Mars ft. Cardi B,R&B,62TB3eafpCT1dfhEfkmTZu,Finesse (Remix) [made popular by Bruno Mars ft. Cardi B] [backing version],Pop Party Pack 8 - Party Tyme (Backing Versions),0.0,N,2024-03-04,0.745,0.775,-8.148,0.0489,0.0189,0.179,0.0631,0.933,1.0,1.0,105.009,217200.0
+Forever My Lady,Jodeci,R&B,2pY99npaZKTVAyw2DhV9Bo,Forever My Lady,Forever My Lady,58.0,N,1991-05-28,0.707,0.5,-15.199,0.0387,0.136,0.0,0.237,0.77,9.0,0.0,117.997,320360.0
+Irreplaceable,Beyoncé,R&B,6RX5iL93VZ5fKmyvNXvF1r,Irreplaceable,B'Day Deluxe Edition,69.0,N,2007-05-29,0.447,0.694,-4.637,0.382,0.0293,5.46e-06,0.167,0.509,7.0,0.0,175.868,227853.0
+Wicked Games,The Weeknd,R&B,249E7AgSyA4vhtXNEjQYb5,Wicked Games,Wicked Games,55.0,N,2012-01-01,0.659,0.606,-5.204,0.0313,0.00984,3.27e-06,0.359,0.325,9.0,1.0,114.071,323733.0
+FourFiveSeconds,"Rihanna, Kanye West, Paul McCartney",R&B,78TTtXnFQPzwqlbtbwqN0y,FourFiveSeconds,FourFiveSeconds,77.0,Y,2015-01-24,0.582,0.272,-5.662,0.0501,0.875,0.0,0.13,0.354,2.0,1.0,205.846,188238.0
+Sweet Lady,Tyrese,R&B,1Dx8rIZaXzZPvUQRF2j9hB,Sweet Lady,Tyrese,59.0,N,1998-08-31,0.588,0.522,-6.254,0.0383,0.233,0.0,0.24,0.584,9.0,0.0,66.024,290600.0
+No Air,Jordin Sparks ft. Chris Brown,R&B,2q3xl7cGfXPRtujtloWqau,No Air (In the Style of Jordin Sparks ftg. Chris Brown) [Karaoke Version],Pop / Rock - Karaoke Vol. 388,0.0,N,2012-04-02,0.587,0.302,-17.317,0.0397,0.146,0.684,0.108,0.266,11.0,1.0,159.958,274128.0
+Sure Thing,Miguel,R&B,0JXXNGljqupsJaZsgSbMZV,Sure Thing,All I Want Is You,86.0,N,2010-11-26,0.684,0.607,-8.127,0.1,0.0267,0.000307,0.191,0.498,11.0,0.0,81.001,195373.0
+Try Sleeping with a Broken Heart,Alicia Keys,R&B,1yK9LISg5uBOOW5bT2Wm0i,Try Sleeping with a Broken Heart,The Element Of Freedom,59.0,N,2009-12-15,0.496,0.821,-5.155,0.112,0.158,0.246,0.13,0.549,5.0,1.0,110.977,249013.0

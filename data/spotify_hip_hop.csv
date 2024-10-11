@@ -1,0 +1,96 @@
+Title,Artist,Genre,id,title_spotify,album,sp_popularity,colab,release_date,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,key,mode,tempo,duration
+Lose Yourself,Eminem,Hip Hop,5Z01UMMf7V1o0MzF86s6WJ,Lose Yourself,Curtain Call: The Hits (Deluxe Edition),77.0,N,2005-12-06,0.692,0.744,-4.565,0.257,0.00868,0.000423,0.359,0.0612,2.0,1.0,171.374,326467.0
+Juicy,The Notorious B.I.G.,Hip Hop,2AP7m2dBb8ULTx4Gc1rdMc,Juicy,Greatest Hits,56.0,N,2007-03-02,0.887,0.767,-4.311,0.295,0.38,0.0,0.0527,0.607,9.0,1.0,97.437,285760.0
+C.R.E.A.M.,Wu-Tang Clan,Hip Hop,119c93MHjrDLJTApCVGpvx,C.R.E.A.M. (Cash Rules Everything Around Me),Enter The Wu-Tang (36 Chambers) [Expanded Edition],72.0,N,1993-11-09,0.512,0.514,-11.562,0.387,0.555,0.00958,0.126,0.565,11.0,0.0,181.033,252027.0
+Nuthin' but a 'G' Thang,Dr. Dre ft. Snoop Dogg,Hip Hop,5Tbpp3OLLClPJF8t1DmrFD,"Nuthin' But A ""G"" Thang",The Chronic,76.0,Y,1992-12-15,0.669,0.821,-4.37,0.29,0.00182,0.0,0.147,0.684,11.0,0.0,94.895,237573.0
+HUMBLE.,Kendrick Lamar,Hip Hop,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.,DAMN.,84.0,N,2017-04-14,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,1.0,0.0,150.011,177000.0
+"Shook Ones, Pt. II",Mobb Deep,Hip Hop,33ZXjLCpiINn8eQIDYEPTD,"Shook Ones, Pt. II",The Infamous,74.0,N,1995-04-25,0.763,0.786,-6.472,0.229,0.0146,0.0114,0.0817,0.504,10.0,0.0,93.857,325507.0
+Straight Outta Compton,N.W.A,Hip Hop,6KIKRz9eSTXdNsGUnomdtW,Straight Outta Compton,Straight Outta Compton,69.0,N,1988-08-08,0.834,0.878,-9.484,0.15,0.0461,0.0,0.334,0.418,8.0,1.0,102.848,258688.0
+Fight The Power,Public Enemy,Hip Hop,1yo16b3u0lptm6Cs7lx4AD,Fight The Power,Fear Of A Black Planet,52.0,N,1990-04-10,0.797,0.582,-12.97,0.255,0.00484,2.04e-06,0.517,0.415,2.0,1.0,105.974,282640.0
+Big Pimpin',JAY-Z ft. UGK,Hip Hop,7m97yKVzPpXV9Z4ezEziOD,Big Pimpin',Vol. 3... Life And Times Of S. Carter,66.0,Y,1999-12-28,0.88,0.814,-6.307,0.14,0.168,0.00672,0.0584,0.942,11.0,0.0,138.083,283067.0
+Gin and Juice,Snoop Dogg,Hip Hop,39QBkWKnap8wRSW4WB9OK0,Gin and Juice,Doggystyle,72.0,N,1993-11-23,0.603,0.762,-7.744,0.285,0.0953,1.53e-05,0.478,0.379,4.0,0.0,94.726,211867.0
+Sicko Mode,Travis Scott,Hip Hop,2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,ASTROWORLD,81.0,N,2018-08-03,0.834,0.73,-3.714,0.222,0.00513,0.0,0.124,0.446,8.0,1.0,155.008,312820.0
+Mo Money Mo Problems,The Notorious B.I.G.,Hip Hop,4INDiWSKvqSKDEu7mh8HFz,Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,Life After Death (2014 Remastered Edition),73.0,Y,1997-03-04,0.845,0.884,-4.506,0.0759,0.0128,2.1e-06,0.203,0.904,6.0,0.0,104.536,257400.0
+In Da Club,50 Cent,Hip Hop,4RY96Asd9IefaL3X4LOLZ8,In Da Club,Get Rich Or Die Tryin',73.0,N,2003-02-06,0.904,0.72,-2.776,0.348,0.259,0.0,0.0749,0.805,6.0,0.0,90.062,193467.0
+Hypnotize,The Notorious B.I.G.,Hip Hop,6Tsu3OsuMz4KEGKbOYd6A0,Hypnotize - 2007 Remaster,Greatest Hits,68.0,N,2007-03-02,0.895,0.694,-4.384,0.275,0.176,0.0,0.292,0.632,9.0,1.0,93.944,230000.0
+Alright,Kendrick Lamar,Hip Hop,3iVcZ5G6tvkXZkZKlMpIUs,Alright,To Pimp A Butterfly,79.0,N,2015-03-16,0.796,0.766,-5.974,0.238,0.0742,0.0,0.0827,0.558,7.0,1.0,110.034,219333.0
+No Role Modelz,J. Cole,Hip Hop,68Dni7IE4VyPkTOH9mRWHr,No Role Modelz,2014 Forest Hills Drive,85.0,N,2014-12-09,0.69,0.521,-8.492,0.339,0.324,0.0,0.0534,0.494,10.0,0.0,100.028,292799.0
+99 Problems,JAY-Z,Hip Hop,7sLpSWxQazJzDVG6YGzlVs,99 Problems,The Black Album,62.0,N,2003-11-14,0.494,0.887,-4.297,0.398,0.00661,0.0,0.103,0.548,6.0,0.0,89.554,234627.0
+California Love,2Pac ft. Dr. Dre,Hip Hop,4DLVB91nzswc4wD7EchmXs,"California Love (remix) (ft. Dr. Dre, Roger Troutman) - Remix",All Eyez On Me,50.0,Y,1996-02-13,0.635,0.844,-4.2,0.0741,0.00671,0.0,0.487,0.649,5.0,1.0,91.652,385880.0
+The Real Slim Shady,Eminem,Hip Hop,3yfqSUWxFvZELEM4PmlwIR,The Real Slim Shady,The Marshall Mathers LP,84.0,N,2000-05-23,0.949,0.661,-4.244,0.0572,0.0302,0.0,0.0454,0.76,5.0,0.0,104.504,284200.0
+Ms. Jackson,OutKast,Hip Hop,0I3q5fE6wg7LIfHGngUTnV,Ms. Jackson,Stankonia,81.0,N,2000-10-31,0.843,0.806,-5.946,0.269,0.143,0.0,0.0771,0.613,4.0,0.0,94.948,270507.0
+Forgot About Dre,Dr. Dre ft. Eminem,Hip Hop,1qcCrFI5UZlArpctKOCUUO,Forgot About Dre (made popular by Dr. Dre ft. Eminem) [vocal version],Hip Hop & Rap Hits 10 - Party Tyme (Vocal Versions),0.0,N,2024-07-12,0.886,0.715,-9.569,0.0486,0.314,0.0,0.113,0.906,7.0,0.0,134.037,216108.0
+It Was A Good Day,Ice Cube,Hip Hop,2qOm7ukLyHUXWyR4ZWLwxA,It Was A Good Day,The Predator,78.0,N,1992-11-17,0.798,0.744,-5.328,0.136,0.33,0.000106,0.292,0.794,7.0,0.0,82.356,260000.0
+Stan,Eminem,Hip Hop,3UmaczJpikHgJFyBTAJVoz,Stan,The Marshall Mathers LP,79.0,Y,2000-05-23,0.78,0.768,-4.325,0.238,0.0371,2.34e-06,0.518,0.507,6.0,0.0,80.063,404107.0
+N.Y. State of Mind,Nas,Hip Hop,0trHOzAhNpGCsGBEu7dOJo,N.Y. State of Mind,Illmatic,71.0,N,1994-04-19,0.665,0.91,-4.682,0.223,0.0394,0.0,0.227,0.887,6.0,0.0,84.099,293973.0
+Hotline Bling,Drake,Hip Hop,0wwPcA6wtMf6HUMpIRdeP7,Hotline Bling,Views,75.0,N,2016-05-06,0.891,0.628,-7.863,0.0551,0.00258,0.00019,0.0504,0.552,2.0,1.0,134.966,267067.0
+Ruff Ryders' Anthem,DMX,Hip Hop,1BKT2I9x4RGKaKqW4up34s,Ruff Ryders' Anthem,It's Dark And Hell Is Hot,69.0,N,1998-05-01,0.88,0.577,-8.093,0.301,0.0564,1.02e-06,0.201,0.74,10.0,0.0,90.993,214440.0
+Work It,Missy Elliott,Hip Hop,3jagJCUbdqhDSPuxP8cAqF,Work It,Under Construction,68.0,N,2002-11-12,0.884,0.677,-5.603,0.283,0.0778,0.0,0.0732,0.584,1.0,1.0,101.868,263227.0
+Through the Wire,Kanye West,Hip Hop,4mmkhcEm1Ljy1U9nwtsxUo,Through The Wire,The College Dropout,74.0,N,2004-02-10,0.571,0.739,-6.11,0.247,0.00865,5.21e-06,0.158,0.66,7.0,1.0,83.089,221227.0
+Good Kid,Kendrick Lamar,Hip Hop,5vuJuBqwzHJgCA1ysRfwxZ,good kid,"good kid, m.A.A.d city (Deluxe)",57.0,N,2012,0.451,0.831,-8.641,0.308,0.0623,0.0,0.185,0.41,5.0,0.0,176.173,214120.0
+Gold Digger,Kanye West ft. Jamie Foxx,Hip Hop,7eyGVYDYGLTBY5JP0NtmHZ,Gold Digger (made popular by Kanye West ft. Jamie Foxx) [vocal version],Pop Party Pack 2 - Party Tyme (Vocal Versions),0.0,N,2024-02-16,0.833,0.705,-10.071,0.188,0.122,0.0,0.0426,0.945,6.0,1.0,92.023,208099.0
+The Message,Grandmaster Flash & The Furious Five,Hip Hop,5DuTNKFEjJIySAyJH1yNDU,The Message (feat. Melle Mel & Duke Bootee),The Message,48.0,Y,1982-10-01,0.947,0.607,-10.58,0.202,0.0249,4.76e-06,0.0861,0.732,10.0,0.0,100.619,431800.0
+Run This Town,JAY-Z ft. Rihanna & Kanye West,Hip Hop,715GIaCHfKsfg2fD16Khc9,Run This Town (Originally Performed by Jay Z Ft. Rihanna & Kanye West) - Karaoke Version,"Karaoke Picks from 2009, Vol. 6",0.0,N,2021-09-17,0.575,0.561,-11.727,0.0412,0.00358,0.763,0.0446,0.695,1.0,1.0,169.864,276678.0
+Jesus Walks,Kanye West,Hip Hop,5g1vtHqi9uV7xtYeCcFOBx,Jesus Walks,The College Dropout,69.0,N,2004-02-10,0.637,0.834,-4.686,0.323,0.614,0.0,0.317,0.715,3.0,0.0,87.312,193733.0
+Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz",Hip Hop,4qikXelSRKvoCqFcHLB2H2,Mercy,Mercy,68.0,Y,2012-01-01,0.563,0.496,-9.381,0.406,0.0685,5.8e-05,0.173,0.426,6.0,0.0,139.993,329320.0
+XO Tour Llif3,Lil Uzi Vert,Hip Hop,7GX5flRQZVHRAGd6B4TmDO,XO Tour Llif3,Luv Is Rage 2,81.0,N,2017-08-25,0.732,0.75,-6.366,0.231,0.00264,0.0,0.109,0.401,11.0,0.0,155.096,182707.0
+Mask Off,Future,Hip Hop,0VgkVdmE4gld66l8iyGjgx,Mask Off,FUTURE,82.0,N,2017-06-30,0.833,0.434,-8.795,0.431,0.0102,0.0219,0.165,0.281,2.0,1.0,150.062,204600.0
+One Mic,Nas,Hip Hop,6MMuI4k4Vs5ghtDH5i2hBg,One Mic,Stillmatic,47.0,N,2001-12-18,0.783,0.608,-5.742,0.361,0.0574,0.0,0.102,0.429,0.0,0.0,91.672,268667.0
+Lollipop,Lil Wayne ft. Static Major,Hip Hop,4P7VFiaZb3xrXoqGwZXC3J,Lollipop,Tha Carter III,67.0,Y,2008-06-10,0.829,0.428,-9.469,0.0831,0.056,0.00413,0.137,0.45,0.0,1.0,148.075,299333.0
+How We Do,The Game ft. 50 Cent,Hip Hop,54eTPhuDWXttDGokFRrcKs,How We Do (made popular by The Game ft. 50 Cent) [backing version],Hip Hop & Rap Hits 5 - Party Tyme (Backing Versions),0.0,N,2023-09-08,0.713,0.598,-9.489,0.309,0.0135,0.308,0.0341,0.777,0.0,1.0,195.819,239788.0
+The Way I Am,Eminem,Hip Hop,23wfXwnsPZYe5A1xXRHb3J,The Way I Am,The Marshall Mathers LP,72.0,N,2000-05-23,0.785,0.871,-2.692,0.265,0.144,0.0,0.309,0.315,4.0,0.0,87.248,290427.0
+Swimming Pools (Drank),Kendrick Lamar,Hip Hop,6REbwUNlppTfcnV4d4ZoZi,Swimming Pools (Drank),Swimming Pools (Drank),78.0,N,2012-01-01,0.693,0.445,-5.892,0.257,0.00625,0.000234,0.0899,0.199,8.0,1.0,74.044,247800.0
+Worst Behavior,Drake,Hip Hop,48RN2EOOyG2Gs5Pyla7ZJj,Worst Behavior,Nothing Was The Same,53.0,N,2013-01-01,0.78,0.799,-6.359,0.15,0.158,0.0,0.209,0.414,9.0,1.0,109.944,270187.0
+Black Skinhead,Kanye West,Hip Hop,722tgOgdIbNe3BEyLnejw4,Black Skinhead,Yeezus,71.0,N,2013-06-18,0.766,0.809,-6.123,0.279,0.0011,0.0,0.168,0.325,1.0,1.0,130.127,188013.0
+Hard Knock Life (Ghetto Anthem),JAY-Z,Hip Hop,5Tl0HJvynZtKdSUMKbFVVX,Hard Knock Life (Ghetto Anthem),Vol.2... Hard Knock Life,65.0,N,1998-11-29,0.884,0.679,-5.857,0.282,0.0957,0.00209,0.0289,0.591,10.0,0.0,76.993,238467.0
+Bodak Yellow,Cardi B,Hip Hop,6KBYefIoo7KydImq1uUQlL,Bodak Yellow,Invasion of Privacy,69.0,N,2018-04-06,0.926,0.703,-6.337,0.103,0.0659,0.0,0.231,0.485,11.0,0.0,125.022,223713.0
+Old Town Road,Lil Nas X,Hip Hop,0F7FA14euOIX8KcbEturGH,Old Town Road,7 EP,71.0,N,2019-06-21,0.907,0.53,-6.112,0.127,0.0578,2.23e-06,0.101,0.507,1.0,1.0,135.998,113000.0
+WAP,Cardi B ft. Megan Thee Stallion,Hip Hop,0as4mfK1czqMH4T7nqactq,WAP (Made Popular By Cardi B ft. Megan Thee Stallion) [Instrumental Version],Party Tyme Karaoke - Instrumentals 29,0.0,N,2021-08-13,0.785,0.495,-11.373,0.15,2.97e-05,0.919,0.0667,0.0337,1.0,1.0,133.038,188475.0
+Suge,DaBaby,Hip Hop,2gwkD6igEhQbDQegRCcdoB,Suge,Baby On Baby,66.0,N,2019-03-01,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,2.0,0.0,75.445,163320.0
+Ransom,Lil Tecca,Hip Hop,1lOe9qE0vR9zwWQAOk6CoO,Ransom,We Love You Tecca,83.0,N,2019-08-30,0.745,0.642,-6.257,0.287,0.0204,0.0,0.0658,0.226,7.0,0.0,179.974,131240.0
+Lucid Dreams,Juice WRLD,Hip Hop,285pBltuF7vW8TeWk8hdRR,Lucid Dreams,Goodbye & Good Riddance,82.0,N,2018-12-10,0.511,0.566,-7.23,0.2,0.349,0.0,0.34,0.218,6.0,0.0,83.903,239836.0
+Goosebumps,Travis Scott,Hip Hop,6gBFPUFcJLzWGx4lenP6h2,goosebumps,Birds In The Trap Sing McKnight,86.0,N,2016-09-16,0.841,0.728,-3.37,0.0484,0.0847,0.0,0.149,0.43,7.0,1.0,130.049,243837.0
+SICKO MODE,Travis Scott,Hip Hop,2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,ASTROWORLD,81.0,N,2018-08-03,0.834,0.73,-3.714,0.222,0.00513,0.0,0.124,0.446,8.0,1.0,155.008,312820.0
+DNA.,Kendrick Lamar,Hip Hop,6HZILIRieu8S0iqY8kIKhj,DNA.,DAMN.,79.0,N,2017-04-14,0.638,0.523,-6.664,0.357,0.00454,0.0,0.0842,0.422,1.0,1.0,139.913,185947.0
+Hot,Young Thug ft. Gunna,Hip Hop,6In0l3TGLl8YBCw3eI2fdb,Hot (Made Popular By Young Thug ft. Gunna & Travis Scott) [Karaoke Version],Party Tyme - Hip Hop & Rap Hits 3 (Karaoke Versions),1.0,N,2022-11-25,0.828,0.415,-9.415,0.0368,0.0289,0.933,0.186,0.672,0.0,0.0,112.002,193955.0
+Savage,Megan Thee Stallion,Hip Hop,55CHeLEfn5iJ0IIkgaa4si,Savage,Suga,65.0,N,2020-03-06,0.843,0.741,-5.609,0.334,0.0252,0.0,0.096,0.68,11.0,1.0,168.983,155497.0
+Gimme The Loot,The Notorious B.I.G.,Hip Hop,1xIxMz1sNQ4b6svH1GuTtF,Gimme the Loot - 2005 Remaster,Ready to Die (The Remaster),64.0,N,1994-09-13,0.721,0.662,-8.136,0.403,0.0888,0.0,0.178,0.68,7.0,1.0,94.191,285947.0
+Mass Appeal,Gang Starr,Hip Hop,3lGBvPUgO7MJltUnBlOpe9,Mass Appeal,Hard To Earn,62.0,N,1994-03-08,0.807,0.726,-8.435,0.252,0.0209,0.276,0.129,0.616,10.0,0.0,96.12,221027.0
+I Get Around,2Pac,Hip Hop,74kHlIr01X459gqsSdNilW,I Get Around,Greatest Hits,54.0,Y,1998-01-01,0.84,0.717,-4.368,0.105,0.12,1.29e-05,0.298,0.675,10.0,0.0,96.224,258640.0
+Grinding,Clipse,Hip Hop,6nGNx5GsGAwgXxExNy589Q,Keep Grinding,Keep Grinding,0.0,N,2020-09-12,0.822,0.623,-10.098,0.316,0.0421,0.0,0.473,0.607,2.0,1.0,123.053,171860.0
+Family Ties,Baby Keem & Kendrick Lamar,Hip Hop,3QFInJAm9eyaho5vBzxInN,family ties (with Kendrick Lamar),The Melodic Blue,78.0,Y,2021-09-10,0.711,0.611,-5.453,0.33,0.00588,0.0,0.23,0.144,1.0,1.0,134.093,252262.0
+God's Plan,Drake,Hip Hop,6DCZcSspjsKoFjzjrWoCdn,God's Plan,Scorpion,81.0,N,2018-06-29,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,7.0,1.0,77.169,198973.0
+Broke In A Minute,Tory Lanez,Hip Hop,4xqIYGwwZTEem9U8A42SPF,Broke In A Minute,The New Toronto 3,73.0,N,2020-04-10,0.929,0.7,-5.596,0.0903,0.141,0.0,0.349,0.802,0.0,0.0,120.009,132024.0
+Hot Boy,Bobby Shmurda,Hip Hop,0rFke7eNFHbGuGJUdRgjB2,Hot Boy,Hot Boy,33.0,N,2014-07-25,0.859,0.5,-7.628,0.347,0.042,1.6e-05,0.0616,0.186,9.0,1.0,83.981,194561.0
+Mask Off,Future,Hip Hop,0VgkVdmE4gld66l8iyGjgx,Mask Off,FUTURE,82.0,N,2017-06-30,0.833,0.434,-8.795,0.431,0.0102,0.0219,0.165,0.281,2.0,1.0,150.062,204600.0
+I'm Sprung,T-Pain,Hip Hop,0DLOyyQvwPTSDKuhpzMMwA,I'm Sprung,Rappa Ternt Sanga (Expanded Edition),73.0,N,2005-12-06,0.728,0.327,-11.596,0.0999,0.0948,0.0,0.103,0.195,0.0,0.0,100.0,231040.0
+Rockstar,Post Malone ft. 21 Savage,Hip Hop,17u2WZq0EgeX5Ra3c1v6n9,Rockstar (Made Popular By Post Malone ft. 21 Savage) [Vocal Version],Party Tyme Karaoke - Super Hits 31 - Vocal Versions,8.0,N,2019-12-06,0.676,0.444,-9.367,0.0592,0.0736,0.000587,0.133,0.0507,7.0,0.0,159.922,218979.0
+Praise The Lord (Da Shine),A$AP Rocky ft. Skepta,Hip Hop,7ycWLEP1GsNjVvcjawXz3z,Praise The Lord (Da Shine) (feat. Skepta),TESTING,80.0,Y,2018-05-25,0.854,0.569,-8.151,0.106,0.0609,0.0816,0.1,0.294,5.0,0.0,80.015,205040.0
+What's Poppin,Jack Harlow,Hip Hop,1jaTQ3nqY3oAAYyCTbIvnM,WHATS POPPIN,Sweet Action,72.0,N,2020-03-13,0.923,0.604,-6.671,0.245,0.017,0.0,0.272,0.826,11.0,0.0,145.062,139741.0
+Dreams and Nightmares,Meek Mill,Hip Hop,42zd6DYQ4o4SECmTITrM1U,Dreams and Nightmares,Dreams and Nightmares (Deluxe Edition),70.0,N,2012-10-26,0.631,0.774,-2.459,0.3,0.468,0.0,0.281,0.44,11.0,1.0,79.745,230693.0
+No Hands,Waka Flocka Flame ft. Wale & Roscoe Dash,Hip Hop,03tqyYWC9Um2ZqU0ZN849H,No Hands (feat. Roscoe Dash & Wale),Flockaveli,75.0,Y,2010-10-01,0.76,0.595,-6.366,0.0391,0.00544,0.0,0.241,0.361,1.0,1.0,131.497,263773.0
+King's Dead,"Jay Rock, Kendrick Lamar, Future, James Blake",Hip Hop,51rXHuKN8Loc4sUlKPODgH,"King's Dead (with Kendrick Lamar, Future & James Blake)","King's Dead (with Kendrick Lamar, Future & James Blake)",69.0,Y,2018-01-12,0.645,0.705,-5.008,0.299,0.000813,0.0,0.128,0.376,1.0,1.0,137.133,229670.0
+Sucker for Pain,"Lil Wayne, Wiz Khalifa & Imagine Dragons",Hip Hop,4dASQiO1Eoo3RJvt74FtXB,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors),74.0,Y,2016-06-24,0.502,0.786,-4.378,0.317,0.255,0.0,0.65,0.739,9.0,0.0,169.021,243491.0
+Hotline Bling,Drake,Hip Hop,0wwPcA6wtMf6HUMpIRdeP7,Hotline Bling,Views,75.0,N,2016-05-06,0.891,0.628,-7.863,0.0551,0.00258,0.00019,0.0504,0.552,2.0,1.0,134.966,267067.0
+Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz",Hip Hop,4qikXelSRKvoCqFcHLB2H2,Mercy,Mercy,68.0,Y,2012-01-01,0.563,0.496,-9.381,0.406,0.0685,5.8e-05,0.173,0.426,6.0,0.0,139.993,329320.0
+Power,Kanye West,Hip Hop,2gZUPNdnz5Y45eiGxpHGSc,POWER,My Beautiful Dark Twisted Fantasy,76.0,N,2010-11-22,0.542,0.914,-4.747,0.113,0.0161,0.0,0.744,0.576,0.0,0.0,153.993,292093.0
+Hot,Young Thug ft. Gunna,Hip Hop,6In0l3TGLl8YBCw3eI2fdb,Hot (Made Popular By Young Thug ft. Gunna & Travis Scott) [Karaoke Version],Party Tyme - Hip Hop & Rap Hits 3 (Karaoke Versions),1.0,N,2022-11-25,0.828,0.415,-9.415,0.0368,0.0289,0.933,0.186,0.672,0.0,0.0,112.002,193955.0
+For Free,DJ Khaled ft. Drake,Hip Hop,608a1wIsSd5KzMEqm1O7w3,I'm On One,We The Best Forever,67.0,Y,2011-01-01,0.413,0.807,-3.499,0.318,0.0537,0.0,0.631,0.438,11.0,0.0,149.336,296147.0
+Drip Too Hard,Lil Baby & Gunna,Hip Hop,78QR3Wp35dqAhFEc2qAGjE,Drip Too Hard (Lil Baby & Gunna),Drip Harder,79.0,Y,2018-10-05,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.39,1.0,0.0,112.509,145543.0
+Money Trees,Kendrick Lamar,Hip Hop,2HbKqm4o0w5wEeEFXm2sD4,Money Trees,"good kid, m.A.A.d city",78.0,Y,2012,0.716,0.531,-7.355,0.122,0.0703,0.0,0.224,0.344,7.0,1.0,71.994,386907.0
+Thrift Shop,Macklemore & Ryan Lewis,Hip Hop,6CjtS2JZH9RkDz5UVInsa9,Thrift Shop (feat. Wanz),The Heist,78.0,Y,2012-10-09,0.781,0.526,-6.986,0.293,0.0633,0.0,0.0457,0.665,6.0,0.0,94.993,235613.0
+Feel No Ways,Drake,Hip Hop,3cjF2OFRmip8spwZYQRKxP,Feel No Ways,Views,72.0,N,2016-05-06,0.582,0.677,-7.081,0.172,0.0312,6.6e-06,0.122,0.205,7.0,1.0,193.818,240653.0
+The Story of O.J.,JAY-Z,Hip Hop,6JpN5w95em8SODPiM7W2PH,The Story of O.J.,4:44,58.0,N,2017-07-07,0.741,0.718,-5.823,0.415,0.283,2.21e-06,0.23,0.576,7.0,1.0,165.848,231760.0
+L$D,A$AP Rocky,Hip Hop,4S7YHmlWwfwArgd8LfSPud,L$D,AT.LONG.LAST.A$AP,70.0,N,2015-05-26,0.598,0.252,-15.086,0.0644,0.194,0.133,0.0992,0.0352,2.0,1.0,120.064,238307.0
+Forever,"Drake ft. Kanye West, Lil Wayne, Eminem",Hip Hop,2wDz70kiUyVKNSusLt7CNL,Forever,More Than A Game,46.0,Y,2009-01-01,0.469,0.931,-1.351,0.365,0.234,0.0,0.208,0.527,5.0,0.0,106.249,357347.0
+Black Beatles,Rae Sremmurd ft. Gucci Mane,Hip Hop,5VASKLmtFH4oVcHAfLjbqd,Black Beatles (Made Popular By Rae Sremmurd ft. Gucci Mane) [Karaoke Version],Party Tyme Karaoke - Super Hits 29,2.0,N,2018-06-08,0.673,0.644,-10.866,0.0431,0.0174,0.921,0.197,0.392,11.0,0.0,146.05,290656.0
+Thotiana,Blueface,Hip Hop,1rBjexQsgqXpsS2BrCxaDX,Thotiana,Famous Cryp,60.0,N,2018-12-18,0.906,0.382,-12.89,0.269,0.18,0.0,0.113,0.391,10.0,0.0,104.025,129264.0
+Trophies,Drake,Hip Hop,6HfOzLLjsaXsehIFEsrxTk,Trophies,Rise Of An Empire (Deluxe Edition),69.0,Y,2014-01-01,0.744,0.687,-7.475,0.381,0.155,0.0,0.137,0.283,1.0,1.0,143.936,188320.0
+Life Is Good,Future ft. Drake,Hip Hop,5zkIXMBEZaPUVaap4op1Ge,Life Is Good (Ft. Drake) (By Future) (Melody Karaoke Version),ZZang KARAOKE 2024 POP Vol.165,0.0,N,2024-09-11,0.576,0.585,-10.296,0.121,0.0311,0.802,0.15,0.13,2.0,0.0,142.032,242077.0
+Godzilla,Eminem ft. Juice WRLD,Hip Hop,7FIWs0pqAYbP91WWM0vlTQ,Godzilla (feat. Juice WRLD),Music To Be Murdered By,81.0,Y,2020-01-17,0.808,0.745,-5.26,0.342,0.145,0.0,0.292,0.829,10.0,0.0,165.995,210800.0
+Hot,Young Thug ft. Gunna,Hip Hop,6In0l3TGLl8YBCw3eI2fdb,Hot (Made Popular By Young Thug ft. Gunna & Travis Scott) [Karaoke Version],Party Tyme - Hip Hop & Rap Hits 3 (Karaoke Versions),1.0,N,2022-11-25,0.828,0.415,-9.415,0.0368,0.0289,0.933,0.186,0.672,0.0,0.0,112.002,193955.0
+Slide,Calboy,Hip Hop,7KcCwTQ9XYC6pCQW3QMkaT,Slide Thru,Slide Thru,41.0,N,2024-04-06,0.767,0.332,-13.752,0.875,0.068,0.0,0.111,0.486,1.0,1.0,183.838,100078.0
+Gotta Have It,Kanye West & JAY-Z,Hip Hop,6JFLZH9vCzgqnUToBdiHQb,Gotta Have It,Watch The Throne,67.0,Y,2011-08-08,0.74,0.574,-6.938,0.245,0.411,0.0,0.262,0.33,4.0,1.0,149.762,140747.0
+Look At Me!,XXXTENTACION,Hip Hop,7floNISpH8VF4z4459Qo18,Look At Me!,Look At Me!,79.0,N,2017-02-20,0.763,0.726,-6.405,0.282,0.259,0.0,0.0976,0.349,1.0,1.0,139.059,126346.0
+Nonstop,Drake,Hip Hop,0TlLq3lA83rQOYtrqBqSct,Nonstop,Scorpion,74.0,N,2018-06-29,0.912,0.412,-8.074,0.123,0.0165,0.0126,0.104,0.423,7.0,1.0,154.983,238614.0
+Boredom,"Tyler, The Creator ft. Rex Orange County & Anna of the North",Hip Hop,5WNYg3usc6H8N3MBEp4zVk,Boredom (feat. Rex Orange County & Anna of the North),Flower Boy,66.0,Y,2017-07-21,0.559,0.578,-9.54,0.151,0.79,0.000522,0.324,0.239,8.0,1.0,79.938,320720.0
